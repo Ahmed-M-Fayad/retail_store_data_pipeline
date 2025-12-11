@@ -1,0 +1,227 @@
+metadata:
+  check_timestamp: '2025-12-11T19:24:01.246927'
+  datasets_analyzed: 9
+datasets:
+  brands:
+    row_count: 9
+    column_count: 2
+    checks:
+      column_standardization:
+        needed: false
+        issues: []
+      duplicates:
+        needed: false
+        count: 0
+        percentage: 0.0
+      missing_values:
+        needed: false
+        columns: {}
+      data_types:
+        needed: false
+        issues: {}
+  categories:
+    row_count: 7
+    column_count: 2
+    checks:
+      column_standardization:
+        needed: false
+        issues: []
+      duplicates:
+        needed: false
+        count: 0
+        percentage: 0.0
+      missing_values:
+        needed: false
+        columns: {}
+      data_types:
+        needed: false
+        issues: {}
+  products:
+    row_count: 334
+    column_count: 6
+    checks:
+      column_standardization:
+        needed: false
+        issues: []
+      duplicates:
+        needed: true
+        count: 13
+        percentage: 3.89
+      missing_values:
+        needed: false
+        columns: {}
+      data_types:
+        needed: false
+        issues: {}
+      quality:
+        needed: false
+        issues: {}
+  customers:
+    row_count: 1445
+    column_count: 9
+    checks:
+      column_standardization:
+        needed: false
+        issues: []
+      duplicates:
+        needed: false
+        count: 0
+        percentage: 0.0
+      missing_values:
+        needed: true
+        columns:
+          phone:
+            count: 1267
+            percentage: 87.68
+      data_types:
+        needed: false
+        issues: {}
+      quality:
+        needed: true
+        issues:
+          missing_full_name_column: true
+  orders:
+    row_count: 1615
+    column_count: 8
+    checks:
+      column_standardization:
+        needed: false
+        issues: []
+      duplicates:
+        needed: false
+        count: 0
+        percentage: 0.0
+      missing_values:
+        needed: true
+        columns:
+          shipped_date:
+            count: 170
+            percentage: 10.53
+      data_types:
+        needed: true
+        issues:
+          order_date:
+            current: object
+            expected: datetime
+          required_date:
+            current: object
+            expected: datetime
+          shipped_date:
+            current: object
+            expected: datetime
+  order_items:
+    row_count: 4764
+    column_count: 6
+    checks:
+      column_standardization:
+        needed: false
+        issues: []
+      duplicates:
+        needed: true
+        count: 34
+        percentage: 0.71
+      missing_values:
+        needed: false
+        columns: {}
+      data_types:
+        needed: true
+        issues:
+          item_id:
+            current: object
+            expected: int
+      quality:
+        needed: false
+        issues: {}
+  staffs:
+    row_count: 10
+    column_count: 8
+    checks:
+      column_standardization:
+        needed: false
+        issues: []
+      duplicates:
+        needed: false
+        count: 0
+        percentage: 0.0
+      missing_values:
+        needed: true
+        columns:
+          last_name:
+            count: 1
+            percentage: 10.0
+          email:
+            count: 1
+            percentage: 10.0
+          phone:
+            count: 2
+            percentage: 20.0
+          store_id:
+            count: 1
+            percentage: 10.0
+          manager_id:
+            count: 1
+            percentage: 10.0
+      data_types:
+        needed: true
+        issues:
+          store_id:
+            current: float64
+            expected: int
+          manager_id:
+            current: float64
+            expected: int
+  stores:
+    row_count: 3
+    column_count: 8
+    checks:
+      column_standardization:
+        needed: false
+        issues: []
+      duplicates:
+        needed: false
+        count: 0
+        percentage: 0.0
+      missing_values:
+        needed: true
+        columns:
+          email:
+            count: 1
+            percentage: 33.33
+          zip_code:
+            count: 1
+            percentage: 33.33
+      data_types:
+        needed: false
+        issues: {}
+  stocks:
+    row_count: 939
+    column_count: 3
+    checks:
+      column_standardization:
+        needed: false
+        issues: []
+      duplicates:
+        needed: false
+        count: 0
+        percentage: 0.0
+      missing_values:
+        needed: false
+        columns: {}
+      data_types:
+        needed: false
+        issues: {}
+transformations:
+  enrich_products:
+    needed: true
+    missing_columns:
+    - brand_name
+    - category_name
+  calculate_item_total:
+    needed: true
+  calculate_order_total:
+    needed: true
+pipeline_steps:
+  column_standardization: false
+  data_cleaning: true
+  data_transformation: true
+overall_quality_score: 74.36
