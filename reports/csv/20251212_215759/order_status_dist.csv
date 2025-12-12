@@ -1,0 +1,5 @@
+order_status,status_name,order_count,total_revenue,percentage
+1,Pending,62,388739.5422,3.84
+2,Processing,63,429182.31819999986,3.9
+3,Rejected,45,215528.4037999999,2.79
+4,Completed,1445,7976490.021700005,89.47

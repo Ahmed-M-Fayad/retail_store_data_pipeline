@@ -1,0 +1,11 @@
+product_id,product_name,brand_name,category_name,total_quantity_sold,total_revenue,avg_selling_price
+6,Surly Ice Cream Truck Frameset - 2016,Surly,Mountain Bikes,167,156915.5613,892.981
+13,Electra Cruiser 1 (24-Inch) - 2016,Electra,Cruisers Bicycles,157,86105.21080000002,529.494951456311
+16,Electra Townie Original 7D EQ - 2016,Electra,Cruisers Bicycles,156,82744.62089999994,599.9899999999996
+23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,Electra,Children Bicycles,154,68631.71219999998,596.9801000000004
+7,Trek Slash 8 27.5 - 2016,Trek,Mountain Bikes,154,555558.6111,3999.9899999999943
+12,Electra Townie Original 21D - 2016,Electra,Cruisers Bicycles,153,119331.33029999996,1073.538173076923
+11,Surly Straggler 650b - 2016,Surly,Cyclocross Bicycles,151,226765.5509999999,1680.99
+25,Electra Townie Original 7D - 2015/2016,Electra,Comfort Bicycles,148,66568.66859999998,499.98999999999984
+10,Surly Straggler - 2016,Surly,Cyclocross Bicycles,147,203507.62000000026,1549.0
+9,Trek Conduit+ - 2016,Trek,Electric Bikes,145,389248.7025000002,2999.9899999999957

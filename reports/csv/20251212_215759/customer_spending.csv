@@ -1,0 +1,1446 @@
+customer_id,full_name,city,state,total_orders,total_spent,avg_order_value,customer_segment
+19,Lizzette Stein,Orchard Park,NY,3,451839.2043,150613.0681,High Spender
+730,Andria Rivers,Amarillo,TX,1,432702.54,432702.54,High Spender
+1226,Qiana Jackson,East Northport,NY,1,198805.01,198805.01,High Spender
+1002,Cami Williamson,Massapequa,NY,1,123367.22,123367.22,High Spender
+222,Anya Contreras,East Northport,NY,1,80696.6907,80696.6907,High Spender
+1342,Lekisha Pope,Freeport,NY,1,52778.12,52778.12,High Spender
+94,Sharyn Hopkins,Baldwinsville,NY,2,34807.9392,17403.9696,High Spender
+10,Pamelia Newman,Monroe,NY,3,33634.2604,11211.420133333333,High Spender
+75,Abby Gamble,Amityville,NY,2,32803.0062,16401.5031,High Spender
+6,Lyndsey Bean,Fairport,NY,3,32675.072500000002,10891.690833333334,High Spender
+16,Emmitt Sanchez,New York,NY,3,31925.8857,10641.9619,High Spender
+73,Melanie Hayes,Liverpool,NY,2,31913.690199999997,15956.845099999999,High Spender
+1,Debra Burks,Orchard Park,NY,3,27888.183399999998,9296.061133333333,High Spender
+61,Elinore Aguilar,San Angelo,TX,3,25636.4531,8545.484366666666,High Spender
+93,Corrina Sawyer,Troy,NY,2,25612.702100000002,12806.351050000001,High Spender
+122,Shena Carter,Howard Beach,NY,1,24890.6244,24890.6244,High Spender
+1224,Abram Copeland,Harlingen,TX,1,24607.0261,24607.0261,High Spender
+9,Genoveva Baldwin,Port Washington,NY,3,24433.8818,8144.627266666666,High Spender
+12,Robby Sykes,Hempstead,NY,3,24305.1394,8101.713133333334,High Spender
+3,Tameka Fisher,Redondo Beach,CA,3,24051.5279,8017.175966666667,High Spender
+85,Teofila Fischer,Huntington Station,NY,2,23195.0754,11597.5377,High Spender
+43,Mozelle Carter,Houston,TX,3,23049.057,7683.019,High Spender
+66,Lorrie Becker,Garland,TX,3,23026.2923,7675.430766666667,High Spender
+35,Guillermina Noble,Baldwinsville,NY,2,22061.0729,11030.53645,High Spender
+136,Sarita Parks,Forney,TX,2,21830.9799,10915.48995,High Spender
+38,Zelma Browning,Astoria,NY,2,21535.6665,10767.83325,High Spender
+58,Damien Dorsey,Central Islip,NY,2,21514.461499999998,10757.230749999999,High Spender
+4,Daryl Spence,Uniondale,NY,3,21150.892699999997,7050.297566666665,High Spender
+1214,Brigid Sharp,Santa Clara,CA,1,20648.9537,20648.9537,High Spender
+425,Augustina Joyner,Mount Vernon,NY,1,20509.4254,20509.4254,High Spender
+238,Cindi Larson,Howard Beach,NY,1,20177.7457,20177.7457,High Spender
+63,Tenisha Lyons,Amityville,NY,2,20086.3708,10043.1854,High Spender
+28,Jeanice Frost,Ossining,NY,2,19992.8648,9996.4324,High Spender
+31,Williemae Holloway,Oakland,CA,3,19756.6432,6585.547733333333,High Spender
+1023,Adena Blake,Ballston Spa,NY,1,19329.9492,19329.9492,High Spender
+2,Kasha Todd,Campbell,CA,3,19329.0849,6443.028300000001,High Spender
+33,Deloris Burke,Palos Verdes Peninsula,CA,3,19043.9036,6347.967866666667,High Spender
+82,Lizzie Joyner,Coachella,CA,2,18995.0137,9497.50685,High Spender
+91,Marvin Mullins,San Diego,CA,2,18856.877,9428.4385,High Spender
+464,Bess Mcbride,Garden City,NY,1,18853.3544,18853.3544,High Spender
+1100,Penny Acevedo,Ballston Spa,NY,1,18670.9288,18670.9288,High Spender
+227,Danielle Bond,Patchogue,NY,1,18553.73,18553.73,High Spender
+108,Shae Hickman,Floral Park,NY,1,18281.4729,18281.4729,High Spender
+1007,Jimmy Russell,Howard Beach,NY,1,18278.9436,18278.9436,High Spender
+525,Andreas Mayer,New Rochelle,NY,1,18114.9309,18114.9309,High Spender
+32,Araceli Golden,Fullerton,CA,3,18037.285,6012.428333333333,High Spender
+157,Carola Rodriquez,Banning,CA,2,17861.1996,8930.5998,High Spender
+289,Charmain Webster,Richardson,TX,1,17834.9634,17834.9634,High Spender
+39,Janetta Aguirre,Lancaster,NY,2,17783.487399999998,8891.743699999999,High Spender
+1037,Ashanti Hammond,Nanuet,NY,1,17758.349,17758.349,High Spender
+182,Jenniffer Bullock,Bay Shore,NY,1,17746.5951,17746.5951,High Spender
+1005,Ruthanne Franco,Astoria,NY,1,17611.957000000002,17611.957000000002,High Spender
+607,Paul Lester,Vista,CA,1,17580.7168,17580.7168,High Spender
+5,Charolette Rice,Sacramento,CA,3,17520.2919,5840.0973,High Spender
+1421,Edris Barrett,Plattsburgh,NY,1,17494.9405,17494.9405,High Spender
+339,Tamela Harrell,Central Islip,NY,1,17479.957000000002,17479.957000000002,High Spender
+383,Ashlee Pena,Whitestone,NY,1,17305.9384,17305.9384,High Spender
+40,Ronna Butler,Encino,CA,3,17240.5623,5746.8541000000005,High Spender
+54,Fran Yang,Utica,NY,2,17225.4439,8612.72195,High Spender
+109,Monica Sears,San Jose,CA,2,17193.9034,8596.9517,High Spender
+21,Tobie Little,Victoria,TX,3,17123.997499999998,5707.999166666666,High Spender
+1391,Sheryl Chase,Floral Park,NY,1,17086.934299999997,17086.934299999997,High Spender
+153,Laraine Robbins,San Angelo,TX,2,17068.4922,8534.2461,High Spender
+976,Ayanna Cherry,Smithtown,NY,1,16950.076999999997,16950.076999999997,High Spender
+47,Bridgette Guerra,San Lorenzo,CA,3,16935.640799999997,5645.213599999999,High Spender
+651,Laure Pena,Wappingers Falls,NY,1,16890.1469,16890.1469,High Spender
+534,Alejandro Haney,Wantagh,NY,1,16846.953999999998,16846.953999999998,High Spender
+119,Thalia Dillard,San Angelo,TX,2,16764.1256,8382.0628,High Spender
+22,Adelle Larsen,East Northport,NY,2,16651.0484,8325.5242,High Spender
+1382,Wynona Douglas,Harlingen,TX,1,16491.52,16491.52,High Spender
+184,Klara Stanley,Webster,NY,1,16436.065000000002,16436.065000000002,High Spender
+70,Tomasa Carson,East Elmhurst,NY,2,16338.938400000001,8169.4692000000005,High Spender
+50,Cleotilde Booth,Sugar Land,TX,3,16179.116699999999,5393.0389,High Spender
+79,Ashanti Parks,Baldwin,NY,2,16025.0715,8012.53575,High Spender
+971,Samual Warner,Brentwood,NY,1,15876.4261,15876.4261,High Spender
+172,Jeanie Kirkland,Santa Clara,CA,2,15841.0992,7920.5496,High Spender
+14,Garry Espinoza,Forney,TX,3,15766.700599999998,5255.566866666666,High Spender
+1199,Consuela Collier,North Tonawanda,NY,1,15455.624999999998,15455.624999999998,High Spender
+908,Delmar Wise,Lockport,NY,1,15439.946799999998,15439.946799999998,High Spender
+809,Elnora Simpson,Bellmore,NY,1,15416.1565,15416.1565,High Spender
+1132,Parthenia Holman,Ithaca,NY,1,15205.9284,15205.9284,High Spender
+840,Gilbert Calhoun,East Elmhurst,NY,1,15097.906,15097.906,High Spender
+531,Kimberely Bowen,Troy,NY,1,15087.2644,15087.2644,High Spender
+195,Addie Hahn,Franklin Square,NY,1,14935.0311,14935.0311,High Spender
+18,Georgetta Hardin,Canandaigua,NY,3,14877.289,4959.096333333334,High Spender
+13,Lashawn Ortiz,Longview,TX,3,14774.458299999998,4924.819433333333,High Spender
+374,Candelaria Coffey,Merrick,NY,1,14735.4152,14735.4152,High Spender
+663,Alissa Hood,New Windsor,NY,1,14567.157,14567.157,High Spender
+1131,Desmond Rose,Mount Vernon,NY,1,14566.4345,14566.4345,High Spender
+25,Regenia Vaughan,Mahopac,NY,2,14529.258299999998,7264.629149999999,High Spender
+263,Dortha Jarvis,Oceanside,NY,1,14405.0464,14405.0464,High Spender
+904,Jana Thomas,San Jose,CA,1,14397.1379,14397.1379,High Spender
+1171,Earlean Pena,Rome,NY,1,14249.6462,14249.6462,High Spender
+192,Bong Hebert,Torrance,CA,2,14208.3881,7104.19405,High Spender
+24,Corene Wall,Atwater,CA,3,14199.955800000002,4733.3186000000005,High Spender
+167,Loreta Johnston,Spring Valley,NY,1,14172.2185,14172.2185,High Spender
+1020,Lorraine Marks,San Carlos,CA,1,14141.3394,14141.3394,High Spender
+53,Saturnina Garner,Glendora,CA,3,14068.2366,4689.4122,High Spender
+37,Melia Brady,Maspeth,NY,2,14011.826500000001,7005.9132500000005,High Spender
+292,Monty Frost,Hempstead,NY,1,13947.5449,13947.5449,High Spender
+72,Petronila Norris,South El Monte,CA,2,13914.3345,6957.16725,High Spender
+59,Latasha Stanley,Rockville Centre,NY,2,13854.6016,6927.3008,High Spender
+692,Dorothea Chang,Astoria,NY,1,13821.531,13821.531,High Spender
+170,Regine Gonzales,Oxnard,CA,2,13801.2997,6900.64985,High Spender
+123,Robena Hill,Corpus Christi,TX,2,13783.7813,6891.89065,High Spender
+296,Sophia Mcmillan,Uniondale,NY,1,13773.6277,13773.6277,High Spender
+1063,Tammy Austin,Lake Jackson,TX,1,13765.5468,13765.5468,High Spender
+169,Karla Kirk,Palos Verdes Peninsula,CA,2,13678.357,6839.1785,High Spender
+187,Hedwig Paul,Apple Valley,CA,2,13611.625900000001,6805.8129500000005,High Spender
+87,Yan Mcgowan,Duarte,CA,2,13546.9484,6773.4742,High Spender
+734,Alina Mcleod,Patchogue,NY,1,13287.526199999998,13287.526199999998,High Spender
+503,Marlo Jefferson,Niagara Falls,NY,1,13242.962,13242.962,High Spender
+595,Frederica Rojas,Ithaca,NY,1,13191.9384,13191.9384,High Spender
+681,Reatha Perez,Holbrook,NY,1,13130.8288,13130.8288,High Spender
+883,Gilberte Duke,El Paso,TX,1,13107.441,13107.441,High Spender
+226,Kiana Rivera,Richmond Hill,NY,1,13033.5961,13033.5961,High Spender
+175,Nova Hess,Duarte,CA,2,13023.926,6511.963,High Spender
+1438,Lee Dunn,San Jose,CA,1,12980.9387,12980.9387,High Spender
+441,Dorthea Walker,Port Washington,NY,1,12965.7468,12965.7468,High Spender
+310,Gilberto Parsons,Middle Village,NY,1,12935.949399999998,12935.949399999998,High Spender
+140,Cleopatra Tate,East Elmhurst,NY,1,12909.9214,12909.9214,High Spender
+803,Bernardina Cooper,Whitestone,NY,1,12867.958,12867.958,High Spender
+231,Jenee Rasmussen,Sacramento,CA,2,12861.878899999998,6430.939449999999,High Spender
+116,Merlene Vinson,Euless,TX,3,12793.6337,4264.5445666666665,High Spender
+1070,Olimpia Mays,Oakland Gardens,NY,1,12774.245099999998,12774.245099999998,High Spender
+334,Somer Jordan,Huntington Station,NY,1,12663.956,12663.956,High Spender
+1403,Mila Moody,Troy,NY,1,12595.073,12595.073,High Spender
+86,Lissa Vargas,Oswego,NY,2,12551.997,6275.9985,High Spender
+700,Collene Knox,Corpus Christi,TX,1,12541.763399999998,12541.763399999998,High Spender
+105,Marget Hodge,Woodhaven,NY,1,12461.5479,12461.5479,High Spender
+135,Dorthey Jackson,Houston,TX,2,12458.924899999998,6229.462449999999,High Spender
+95,Letitia Franco,Saratoga Springs,NY,1,12433.4557,12433.4557,High Spender
+1237,Luke Kramer,Bethpage,NY,1,12420.713,12420.713,High Spender
+1086,Cori Schwartz,Jamaica,NY,1,12400.848,12400.848,High Spender
+1090,Ira Erickson,Port Jefferson Station,NY,1,12392.9547,12392.9547,High Spender
+1258,Todd Waters,Bay Shore,NY,1,12381.8274,12381.8274,High Spender
+203,Minerva Decker,Houston,TX,1,12369.6265,12369.6265,High Spender
+1103,Ardelia Cooley,Canyon Country,CA,1,12334.957,12334.957,High Spender
+194,Dorine Roberson,Santa Cruz,CA,2,12320.1207,6160.06035,High Spender
+1332,Novella Ross,Glendora,CA,1,12307.9627,12307.9627,High Spender
+690,Yevette Elliott,Jackson Heights,NY,1,12104.786,12104.786,High Spender
+905,Hae Ramirez,Baldwinsville,NY,1,12089.9814,12089.9814,High Spender
+138,Jone Bernard,Anaheim,CA,2,12010.496899999998,6005.248449999999,High Spender
+1195,Chantell Bridges,Buffalo,NY,1,11993.972,11993.972,High Spender
+29,Syreeta Hendricks,Mahopac,NY,2,11979.9467,5989.97335,High Spender
+330,Sheba Knapp,Woodside,NY,1,11972.9271,11972.9271,High Spender
+1019,Janie Herrera,Elmhurst,NY,1,11950.476599999998,11950.476599999998,High Spender
+165,Jeromy Burch,San Jose,CA,2,11907.9041,5953.95205,High Spender
+322,Merideth Preston,Poughkeepsie,NY,1,11832.4539,11832.4539,High Spender
+747,Margret Barnett,Forney,TX,1,11831.3359,11831.3359,High Spender
+509,Terra Pickett,Amsterdam,NY,1,11787.5533,11787.5533,High Spender
+104,Katharina Bates,Campbell,CA,2,11776.410099999997,5888.205049999999,High Spender
+48,Cesar Jackson,Liverpool,NY,2,11705.851999999999,5852.9259999999995,High Spender
+473,Lashawna Richardson,Baldwin,NY,1,11596.4289,11596.4289,High Spender
+871,Erlinda Humphrey,New Windsor,NY,1,11588.647399999998,11588.647399999998,High Spender
+583,Lashandra Turner,Long Beach,NY,1,11578.6544,11578.6544,High Spender
+627,Deloris Larson,Duarte,CA,1,11479.5394,11479.5394,High Spender
+275,Pinkie Kirkland,San Angelo,TX,1,11476.5364,11476.5364,High Spender
+224,Moses Pope,Lawndale,CA,2,11471.8954,5735.9477,High Spender
+462,Efren Oliver,Nanuet,NY,1,11463.958,11463.958,High Spender
+350,Christoper Mccall,Bay Shore,NY,1,11462.5954,11462.5954,High Spender
+1136,Kallie Best,Rochester,NY,1,11428.652999999998,11428.652999999998,High Spender
+541,Lanita Burton,Coachella,CA,1,11406.4285,11406.4285,High Spender
+375,Yan Trevino,Uniondale,NY,1,11391.43,11391.43,High Spender
+415,Gwendolyn Miller,Harlingen,TX,1,11349.9574,11349.9574,High Spender
+780,Ouida Gregory,Merrick,NY,1,11314.073,11314.073,High Spender
+1284,Shanice Spears,Brooklyn,NY,1,11299.972,11299.972,High Spender
+1423,Dollie Cervantes,Fort Worth,TX,1,11238.6544,11238.6544,High Spender
+547,Tena Huber,Newburgh,NY,1,11183.0434,11183.0434,High Spender
+1348,Yvone Guerrero,Merrick,NY,1,11183.0335,11183.0335,High Spender
+65,Kanesha Vega,Rome,NY,2,11151.6045,5575.80225,High Spender
+880,Phebe Turner,Sunnyside,NY,1,11120.3254,11120.3254,High Spender
+20,Aleta Shepard,Sugar Land,TX,3,11102.47,3700.8233333333333,High Spender
+798,Alyse Jacobson,Massapequa Park,NY,1,11062.4171,11062.4171,High Spender
+295,Danny Kim,South Ozone Park,NY,1,11055.941,11055.941,High Spender
+609,Eliana Reese,Woodhaven,NY,1,11035.847999999998,11035.847999999998,High Spender
+34,Brittney Woodward,East Northport,NY,2,11035.7581,5517.87905,High Spender
+159,Regina Burns,Garland,TX,1,11013.9345,11013.9345,High Spender
+783,Celestine Kent,Lancaster,NY,1,10998.0295,10998.0295,High Spender
+997,Trinidad Mcclain,Baldwin,NY,1,10986.904,10986.904,High Spender
+810,Ivelisse Nixon,Houston,TX,1,10951.5614,10951.5614,High Spender
+196,Edythe Valencia,North Tonawanda,NY,1,10949.946799999998,10949.946799999998,High Spender
+245,Delila Hamilton,Palos Verdes Peninsula,CA,1,10869.9637,10869.9637,High Spender
+403,Elouise Fry,Canyon Country,CA,1,10866.962199999998,10866.962199999998,High Spender
+89,Arvilla Osborn,Upland,CA,2,10805.3354,5402.6677,High Spender
+68,Jayne Kirkland,Rowlett,TX,3,10802.6294,3600.8764666666666,High Spender
+550,Felicidad Golden,Lockport,NY,1,10794.3537,10794.3537,High Spender
+1018,Carita Salinas,Maspeth,NY,1,10792.247,10792.247,High Spender
+888,Coleen Navarro,Webster,NY,1,10728.4385,10728.4385,High Spender
+27,Santos Valencia,Sunnyside,NY,2,10719.0988,5359.5494,High Spender
+815,Leanna Manning,Hicksville,NY,1,10620.0449,10620.0449,High Spender
+1312,Tereasa Bird,Ronkonkoma,NY,1,10617.973,10617.973,High Spender
+576,Shirely Stanley,El Paso,TX,1,10574.9624,10574.9624,High Spender
+247,Muriel Juarez,Palos Verdes Peninsula,CA,1,10570.4719,10570.4719,High Spender
+1205,Emmaline Huber,Mount Vernon,NY,1,10563.648,10563.648,High Spender
+1138,Hubert Stone,Ridgecrest,CA,1,10541.963199999998,10541.963199999998,High Spender
+867,Rosalva Hamilton,Campbell,CA,1,10529.963,10529.963,High Spender
+1443,Lezlie Lamb,Central Islip,NY,1,10372.093399999998,10372.093399999998,High Spender
+1440,Ernest Rollins,Oakland Gardens,NY,1,10360.255,10360.255,High Spender
+30,Jamaal Albert,Torrance,CA,3,10355.390800000001,3451.7969333333335,High Spender
+543,Jasmin Young,Helotes,TX,1,10336.9624,10336.9624,High Spender
+147,Bernetta Marquez,Smithtown,NY,1,10322.9721,10322.9721,High Spender
+126,Lavina Dejesus,Newburgh,NY,1,10314.9248,10314.9248,High Spender
+255,Flossie Holder,Massapequa Park,NY,1,10269.8557,10269.8557,High Spender
+463,Jerlene Rios,Plainview,NY,1,10266.9542,10266.9542,High Spender
+259,Johnathan Velazquez,Pleasanton,CA,1,10231.0464,10231.0464,High Spender
+1368,Veronique Fulton,Ballston Spa,NY,1,10216.236,10216.236,High Spender
+715,Larae Carney,Sunnyside,NY,1,10187.9451,10187.9451,High Spender
+844,Felica Munoz,South Ozone Park,NY,1,10186.6285,10186.6285,High Spender
+239,Felice Guzman,Canyon Country,CA,2,10156.896799999999,5078.448399999999,High Spender
+824,Veronika Rollins,Webster,NY,1,10132.3624,10132.3624,High Spender
+1225,Mellisa Griffin,Los Banos,CA,1,10050.6281,10050.6281,High Spender
+320,Aron Wiggins,Oceanside,NY,1,10047.4245,10047.4245,High Spender
+240,Le Deleon,Banning,CA,2,9959.0962,4979.5481,High Spender
+594,Deanne Parsons,Lindenhurst,NY,1,9942.14,9942.14,High Spender
+492,Justa Thompson,Corona,NY,1,9927.5559,9927.5559,High Spender
+886,Letisha May,North Tonawanda,NY,1,9927.2049,9927.2049,High Spender
+1439,Florrie Little,New Rochelle,NY,1,9919.920999999998,9919.920999999998,High Spender
+60,Neil Mccall,San Carlos,CA,2,9919.3294,4959.6647,High Spender
+544,Catarina Mendez,West Islip,NY,1,9908.4642,9908.4642,High Spender
+1034,Rico Salas,Centereach,NY,1,9874.652499999998,9874.652499999998,High Spender
+356,Vashti Rosario,Bronx,NY,1,9865.4727,9865.4727,High Spender
+838,Erna Sloan,Howard Beach,NY,1,9849.074,9849.074,High Spender
+421,Iola Rasmussen,Monroe,NY,1,9838.4455,9838.4455,High Spender
+186,Ken Charles,Monsey,NY,1,9833.6547,9833.6547,High Spender
+88,Titus Bullock,Hollis,NY,2,9805.246399999998,4902.623199999999,High Spender
+345,Mi Gray,Albany,NY,1,9728.9827,9728.9827,High Spender
+1415,Harold O'connor,Santa Cruz,CA,1,9725.8374,9725.8374,High Spender
+983,Marguerite Berger,Fullerton,CA,1,9712.9515,9712.9515,High Spender
+499,Lidia Ashley,Baldwinsville,NY,1,9704.9449,9704.9449,High Spender
+411,Octavia Case,New York,NY,1,9673.8444,9673.8444,High Spender
+598,Benito Hendrix,Depew,NY,1,9645.3834,9645.3834,High Spender
+15,Linnie Branch,Plattsburgh,NY,3,9586.8018,3195.6005999999998,High Spender
+80,Sarai Mckee,Buffalo,NY,2,9563.3381,4781.66905,High Spender
+738,Fannie Jenkins,Oxnard,CA,1,9532.3529,9532.3529,High Spender
+26,Theo Reese,Long Beach,NY,2,9514.0705,4757.03525,High Spender
+329,Marilyn Frank,Port Chester,NY,1,9499.981,9499.981,High Spender
+1261,Adelaida Hancock,San Pablo,CA,1,9497.172,9497.172,High Spender
+1010,Katia Henry,Bethpage,NY,1,9479.9557,9479.9557,High Spender
+298,Jennie Middleton,Upland,CA,1,9474.9404,9474.9404,High Spender
+120,Luz House,Fresno,CA,2,9425.166799999999,4712.5833999999995,High Spender
+559,Basilia Thornton,Brentwood,NY,1,9408.7878,9408.7878,High Spender
+1051,Tonisha Fowler,Huntington Station,NY,1,9399.965,9399.965,High Spender
+802,Barrett Sanders,Longview,TX,1,9385.102,9385.102,High Spender
+1201,Nita Guy,Port Chester,NY,1,9372.3701,9372.3701,High Spender
+1436,Macie Ayers,Bellmore,NY,1,9334.5094,9334.5094,High Spender
+279,Justina Long,South El Monte,CA,1,9327.738,9327.738,High Spender
+920,James Robles,North Tonawanda,NY,1,9314.8357,9314.8357,High Spender
+1165,Rikki Morrow,Fort Worth,TX,1,9301.9304,9301.9304,High Spender
+661,Trena Hudson,Monroe,NY,1,9287.9439,9287.9439,High Spender
+1349,Kami Rios,Encino,CA,1,9278.6539,9278.6539,High Spender
+794,Donette Mccarthy,Redondo Beach,CA,1,9274.9654,9274.9654,High Spender
+230,Chelsey Hardin,Deer Park,NY,1,9211.523,9211.523,High Spender
+755,Tomika Wilder,New Hyde Park,NY,1,9210.7184,9210.7184,High Spender
+42,Tangela Quinn,Richmond Hill,NY,2,9205.1175,4602.55875,High Spender
+1441,Jamaal Morrison,Staten Island,NY,1,9173.3817,9173.3817,High Spender
+282,Randolph Chase,San Lorenzo,CA,1,9163.4289,9163.4289,High Spender
+836,Corinna Adams,Rosedale,NY,1,9161.946,9161.946,High Spender
+340,Yanira Bradshaw,Smithtown,NY,1,9157.756,9157.756,High Spender
+517,Buford Gilbert,Bellmore,NY,1,9044.927,9044.927,High Spender
+732,Lavona Austin,Utica,NY,1,8975.157,8975.157,High Spender
+90,Marjorie Logan,Franklin Square,NY,2,8956.785,4478.3925,High Spender
+444,Caridad Compton,San Lorenzo,CA,1,8945.75,8945.75,High Spender
+1279,Stan Saunders,Canandaigua,NY,1,8936.446,8936.446,High Spender
+46,Monika Berg,Encino,CA,3,8902.506599999999,2967.5021999999994,High Spender
+251,Kasie Rodriquez,Ballston Spa,NY,1,8879.452899999998,8879.452899999998,High Spender
+893,Letty Cobb,Depew,NY,1,8820.1505,8820.1505,High Spender
+959,Christel Barber,Sacramento,CA,1,8816.954399999999,8816.954399999999,High Spender
+1031,Tonja Bean,Fairport,NY,1,8787.1297,8787.1297,High Spender
+64,Bobbie Foster,Desoto,TX,3,8778.1311,2926.0437,High Spender
+587,Euna Lopez,Carmel,NY,1,8763.964399999999,8763.964399999999,High Spender
+328,Bettie Glover,Euless,TX,1,8740.966,8740.966,High Spender
+713,Ilona Spears,Port Jefferson Station,NY,1,8712.8466,8712.8466,High Spender
+610,Leonore Dorsey,Jackson Heights,NY,1,8696.072,8696.072,High Spender
+145,Miquel Neal,Staten Island,NY,1,8696.071999999998,8696.071999999998,High Spender
+252,Eleni Gordon,Richmond Hill,NY,1,8587.397,8587.397,High Spender
+666,Brittni Green,Floral Park,NY,1,8570.9665,8570.9665,High Spender
+272,Deja Chaney,Jamaica,NY,1,8561.2627,8561.2627,High Spender
+649,Eli Contreras,Ronkonkoma,NY,1,8550.052699999998,8550.052699999998,High Spender
+1333,Omega Huff,Santa Monica,CA,1,8534.3743,8534.3743,High Spender
+77,Keri Bridges,Richardson,TX,3,8522.9542,2840.984733333333,High Spender
+351,Margorie Wynn,Monsey,NY,1,8498.463,8498.463,High Spender
+778,Corrinne Garrison,Victoria,TX,1,8481.898000000001,8481.898000000001,High Spender
+1341,Rozanne Reyes,Garden City,NY,1,8476.521999999999,8476.521999999999,High Spender
+149,Meredith Bryan,Spring Valley,NY,1,8474.1624,8474.1624,High Spender
+1161,Santa Larson,Valley Stream,NY,1,8445.9545,8445.9545,High Spender
+206,Stephaine Riddle,Brooklyn,NY,1,8429.9454,8429.9454,High Spender
+1374,Juliane Dillard,Glendora,CA,1,8394.4714,8394.4714,High Spender
+564,Bettie Pierce,Farmingdale,NY,1,8392.9437,8392.9437,High Spender
+536,Christiane Bradford,Orchard Park,NY,1,8376.9244,8376.9244,High Spender
+506,Irving Pitts,Torrance,CA,1,8359.215999999999,8359.215999999999,High Spender
+578,Salena Day,San Lorenzo,CA,1,8342.939,8342.939,High Spender
+1290,Minnie Compton,South Richmond Hill,NY,1,8336.4169,8336.4169,High Spender
+115,Rey Lindsay,Monroe,NY,1,8327.9477,8327.9477,High Spender
+870,Dwain Carlson,Smithtown,NY,1,8309.4449,8309.4449,High Spender
+1084,Regine Odom,Franklin Square,NY,1,8303.3719,8303.3719,High Spender
+1192,Gena Owens,Desoto,TX,1,8299.965,8299.965,High Spender
+1069,Rodolfo Buck,Shirley,NY,1,8280.543,8280.543,High Spender
+181,Olevia Pitts,Redondo Beach,CA,2,8273.955899999999,4136.9779499999995,High Spender
+1236,Rudolph Velez,Mount Vernon,NY,1,8263.867,8263.867,High Spender
+420,Vince Schneider,Merrick,NY,1,8204.530200000001,8204.530200000001,High Spender
+990,Casimira Chapman,Monroe,NY,1,8200.7267,8200.7267,High Spender
+800,Cris Dunn,Pittsford,NY,1,8177.0540999999985,8177.0540999999985,High Spender
+637,Kara Higgins,Ossining,NY,1,8127.9469,8127.9469,High Spender
+479,Gertha Mejia,Flushing,NY,1,8109.950500000001,8109.950500000001,High Spender
+384,Aimee Merritt,Flushing,NY,1,8096.4455,8096.4455,High Spender
+808,Vallie Dixon,Rowlett,TX,1,8083.9627,8083.9627,High Spender
+173,Marquerite Dawson,Garland,TX,1,8072.331,8072.331,High Spender
+1435,Merrie Fowler,Scarsdale,NY,1,8069.6565,8069.6565,High Spender
+991,Brigida Larson,Canyon Country,CA,1,8062.1245,8062.1245,High Spender
+496,Shu Mays,Astoria,NY,1,8056.768000000001,8056.768000000001,High Spender
+1060,Tommie Cooley,Lancaster,NY,1,8011.311999999999,8011.311999999999,High Spender
+1148,Lenore Valdez,Spring Valley,NY,1,8009.032099999999,8009.032099999999,High Spender
+1445,Ester Acevedo,San Lorenzo,CA,1,7999.984,7999.984,High Spender
+934,Ocie Slater,Hamburg,NY,1,7999.962999999999,7999.962999999999,High Spender
+960,Arline Lawson,Hempstead,NY,1,7995.8047,7995.8047,High Spender
+1238,Edgar Quinn,Harlingen,TX,1,7993.865,7993.865,High Spender
+878,Melodie Melton,Smithtown,NY,1,7984.939,7984.939,High Spender
+160,Omer Estrada,Rowlett,TX,1,7975.972999999999,7975.972999999999,High Spender
+687,Cecilia Camacho,Desoto,TX,1,7971.2261,7971.2261,High Spender
+1360,Latashia Travis,Upland,CA,1,7967.4144,7967.4144,High Spender
+112,Yuk Vega,West Hempstead,NY,1,7952.0464,7952.0464,High Spender
+916,Alishia Elliott,Mount Vernon,NY,1,7951.146799999999,7951.146799999999,High Spender
+1118,Ja Dillard,Canyon Country,CA,1,7947.442000000001,7947.442000000001,High Spender
+1026,Jenine Dawson,Endicott,NY,1,7938.9374,7938.9374,High Spender
+1300,Clorinda Donovan,Jamestown,NY,1,7932.9465,7932.9465,High Spender
+728,Viva Dawson,Orchard Park,NY,1,7918.8446,7918.8446,High Spender
+1406,Farrah Orr,New Hyde Park,NY,1,7900.4347,7900.4347,High Spender
+727,Kasha Sullivan,Scarsdale,NY,1,7855.2405,7855.2405,High Spender
+1315,Omega Johnston,Canyon Country,CA,1,7848.262799999999,7848.262799999999,High Spender
+581,Vonda Berger,Santa Clara,CA,1,7824.040099999999,7824.040099999999,High Spender
+453,Courtney Wyatt,Garden City,NY,1,7823.944000000001,7823.944000000001,High Spender
+83,Tiesha Daniel,Scarsdale,NY,2,7793.1507,3896.57535,High Spender
+1274,Odette Moses,Newburgh,NY,1,7791.0557,7791.0557,High Spender
+877,Janine Manning,Howard Beach,NY,1,7783.4219,7783.4219,High Spender
+545,Tajuana Rollins,Oswego,NY,1,7782.873,7782.873,High Spender
+1081,Carson Macias,New Rochelle,NY,1,7747.739,7747.739,High Spender
+407,Dannette Guerrero,San Pablo,CA,1,7719.957,7719.957,High Spender
+1398,Nevada Hood,Hopewell Junction,NY,1,7688.2721,7688.2721,High Spender
+96,Floretta Higgins,Bayside,NY,1,7681.124,7681.124,High Spender
+1052,Zora Ford,Sacramento,CA,1,7663.949,7663.949,High Spender
+859,Julianne Shannon,Sugar Land,TX,1,7659.3381,7659.3381,High Spender
+853,Brittney Rojas,Kingston,NY,1,7601.154699999999,7601.154699999999,High Spender
+1227,Magali Dixon,Troy,NY,1,7587.5154,7587.5154,High Spender
+787,Malisa Mitchell,Mount Vernon,NY,1,7575.3454,7575.3454,High Spender
+69,Katelin Kennedy,Rocklin,CA,2,7568.9310000000005,3784.4655000000002,High Spender
+529,Ellena Clements,Santa Monica,CA,1,7568.0544,7568.0544,High Spender
+128,Terrance Lynn,Plattsburgh,NY,1,7536.1622,7536.1622,High Spender
+269,Barton Crosby,Bellmore,NY,1,7526.036700000001,7526.036700000001,High Spender
+1249,Barbra Dickerson,Ridgecrest,CA,1,7520.0371,7520.0371,High Spender
+225,Barbera Riggs,Plainview,NY,1,7486.3314,7486.3314,High Spender
+1307,Cinda Rocha,Los Banos,CA,1,7482.136399999999,7482.136399999999,High Spender
+1370,Rona Rojas,San Jose,CA,1,7439.981399999999,7439.981399999999,High Spender
+390,Lorrie Pollard,Ronkonkoma,NY,1,7439.981399999999,7439.981399999999,High Spender
+308,Mazie Fernandez,Webster,NY,1,7394.9644,7394.9644,High Spender
+472,Myron Ruiz,Amityville,NY,1,7350.4645,7350.4645,High Spender
+1245,Gabriela Warren,Long Beach,NY,1,7345.7374,7345.7374,High Spender
+1125,Caleb England,Pleasanton,CA,1,7339.4195,7339.4195,High Spender
+793,Chantay Maynard,Elmhurst,NY,1,7327.040100000001,7327.040100000001,High Spender
+1043,Diane Jones,Fresh Meadows,NY,1,7256.773799999999,7256.773799999999,High Spender
+675,Kermit Bowman,El Paso,TX,1,7253.619500000001,7253.619500000001,High Spender
+540,Shery Randolph,Ontario,CA,1,7251.965499999999,7251.965499999999,High Spender
+268,Trinity Riddle,Ballston Spa,NY,1,7211.7234,7211.7234,High Spender
+394,Virgen Clemons,South El Monte,CA,1,7184.972399999999,7184.972399999999,High Spender
+782,Ricki Bullock,Woodside,NY,1,7183.3227,7183.3227,High Spender
+354,Tonda Armstrong,Sunnyside,NY,1,7179.9832,7179.9832,High Spender
+726,Rochell Cantrell,Port Jefferson Station,NY,1,7176.214899999999,7176.214899999999,High Spender
+76,Parker Prince,Port Jefferson Station,NY,2,7168.477800000001,3584.2389000000003,High Spender
+1120,Karole Alvarez,East Northport,NY,1,7159.9557,7159.9557,High Spender
+1162,Carmelina Sellers,Ithaca,NY,1,7157.353099999999,7157.353099999999,High Spender
+84,Armand Whitehead,Lindenhurst,NY,2,7154.5445,3577.27225,High Spender
+7,Latasha Hays,Buffalo,NY,3,7147.162899999999,2382.3876333333333,High Spender
+242,Rutha Howell,Canyon Country,CA,1,7143.6644,7143.6644,High Spender
+1151,Herminia Reyes,Centereach,NY,1,7139.954,7139.954,High Spender
+985,Milagros Weber,Harlingen,TX,1,7130.5405,7130.5405,High Spender
+672,Elma Molina,New Rochelle,NY,1,7111.0354,7111.0354,High Spender
+569,Lucas Estes,Santa Monica,CA,1,7105.7751,7105.7751,High Spender
+1150,Keturah Reid,Corpus Christi,TX,1,7091.936699999999,7091.936699999999,High Spender
+125,Herlinda Stone,Canandaigua,NY,1,7067.962799999998,7067.962799999998,High Spender
+1230,Jesus Burch,Desoto,TX,1,7063.463899999999,7063.463899999999,High Spender
+1422,Tempie Jacobson,Smithtown,NY,1,7049.673,7049.673,High Spender
+1314,Joeann Garrison,Ontario,CA,1,7045.1564,7045.1564,High Spender
+538,Sherie Ayala,South El Monte,CA,1,7042.6724,7042.6724,High Spender
+665,Stacie Sims,Oakland,CA,1,7040.846399999999,7040.846399999999,High Spender
+626,Leigh Burke,Schenectady,NY,1,7022.962399999999,7022.962399999999,High Spender
+1372,Renna Williams,South Ozone Park,NY,1,7021.1487,7021.1487,High Spender
+417,Zoraida Patton,Huntington Station,NY,1,7004.840999999999,7004.840999999999,High Spender
+51,Gertrud Rhodes,Merrick,NY,2,7000.058,3500.029,High Spender
+1442,Cassie Cline,Brooklyn,NY,1,6987.2487,6987.2487,High Spender
+57,Pamala Henry,Bronx,NY,2,6981.9401,3490.97005,High Spender
+922,Elvia Cardenas,Massapequa,NY,1,6978.715099999999,6978.715099999999,High Spender
+491,Celestine Jacobs,Massapequa,NY,1,6971.553699999999,6971.553699999999,High Spender
+107,Cecil Hopper,Central Islip,NY,1,6961.0917,6961.0917,High Spender
+481,Jayson Rutledge,Lake Jackson,TX,1,6947.9474,6947.9474,High Spender
+895,Elaina Key,Plainview,NY,1,6929.1049,6929.1049,High Spender
+349,Mable Pratt,Coachella,CA,1,6912.171499999999,6912.171499999999,High Spender
+218,Casey Gill,Port Washington,NY,1,6902.465,6902.465,High Spender
+754,Hue May,Valley Stream,NY,1,6887.1357,6887.1357,High Spender
+314,Javier Nichols,Rowlett,TX,1,6872.9437,6872.9437,High Spender
+276,Lavette Wright,Ronkonkoma,NY,1,6866.9384,6866.9384,High Spender
+151,Joesph Delacruz,Atwater,CA,2,6863.6268,3431.8134,High Spender
+866,Lynwood Jackson,Longview,TX,1,6843.9442,6843.9442,High Spender
+176,Carley Reynolds,South El Monte,CA,2,6829.709200000001,3414.8546000000006,High Spender
+837,Kellye Campbell,Baldwinsville,NY,1,6829.531,6829.531,High Spender
+1015,Nichelle Rosario,Garden City,NY,1,6824.972399999999,6824.972399999999,High Spender
+316,Hortencia Graham,Euless,TX,1,6815.9474,6815.9474,High Spender
+505,Wilda Petersen,Jamaica,NY,1,6813.7535,6813.7535,High Spender
+490,Yu Mcdonald,Ossining,NY,1,6804.9580000000005,6804.9580000000005,High Spender
+689,Deirdre Ryan,Utica,NY,1,6803.9719,6803.9719,High Spender
+1248,Bethany Herring,Port Jefferson Station,NY,1,6794.082,6794.082,High Spender
+948,Siobhan Lang,Levittown,NY,1,6793.9655,6793.9655,High Spender
+1089,Chere Mcfadden,Orchard Park,NY,1,6784.9567,6784.9567,High Spender
+1426,Londa Gould,Corpus Christi,TX,1,6782.3368,6782.3368,High Spender
+1159,Charlene Norris,Syosset,NY,1,6764.5727,6764.5727,High Spender
+702,Sharie Whitaker,Merrick,NY,1,6762.1399,6762.1399,High Spender
+1158,Vito Pickett,Canandaigua,NY,1,6754.9376,6754.9376,High Spender
+631,Tressa Weiss,Ossining,NY,1,6749.973399999999,6749.973399999999,High Spender
+366,Lavonne Anderson,Floral Park,NY,1,6744.774,6744.774,High Spender
+1006,Marjory Leonard,Apple Valley,CA,1,6723.0765,6723.0765,High Spender
+1126,Elmira Levy,Spring Valley,NY,1,6718.5542,6718.5542,High Spender
+896,Stefani Gamble,New City,NY,1,6715.433999999999,6715.433999999999,High Spender
+1012,Josephine Dale,Baldwinsville,NY,1,6712.8464,6712.8464,High Spender
+1122,Cicely Deleon,Massapequa Park,NY,1,6701.455,6701.455,High Spender
+56,Lolita Mosley,Houston,TX,3,6680.443899999998,2226.814633333333,High Spender
+220,Lucio Sherman,Smithtown,NY,1,6672.2947,6672.2947,High Spender
+379,Mina Carrillo,Uniondale,NY,1,6671.6012,6671.6012,High Spender
+717,Kristofer Craig,Plainview,NY,1,6659.9627,6659.9627,High Spender
+1137,Dottie Roberts,Port Washington,NY,1,6654.4734,6654.4734,High Spender
+367,Blanca Hooper,Ozone Park,NY,1,6602.950500000001,6602.950500000001,High Spender
+1424,Lashunda Cole,Monsey,NY,1,6591.976000000001,6591.976000000001,High Spender
+372,Collene Roman,Wappingers Falls,NY,1,6578.9654,6578.9654,High Spender
+571,Kaley Blanchard,Palos Verdes Peninsula,CA,1,6578.9291,6578.9291,High Spender
+1359,Octavia Donaldson,Levittown,NY,1,6543.0622,6543.0622,High Spender
+999,Latoya Johns,Ballston Spa,NY,1,6530.911899999999,6530.911899999999,High Spender
+768,Yvone Yates,San Pablo,CA,1,6515.955,6515.955,High Spender
+1347,Kate Barber,Saratoga Springs,NY,1,6495.972,6495.972,High Spender
+306,Vikki Erickson,Kingston,NY,1,6489.5650000000005,6489.5650000000005,High Spender
+568,Arcelia Vinson,West Islip,NY,1,6479.944,6479.944,High Spender
+646,Ann Heath,South El Monte,CA,1,6468.2263,6468.2263,High Spender
+52,Tu Ramirez,East Elmhurst,NY,2,6467.6551,3233.82755,High Spender
+574,Adriene Rivera,Encino,CA,1,6462.4635,6462.4635,High Spender
+97,Louanne Martin,Yuba City,CA,2,6450.952899999999,3225.4764499999997,High Spender
+360,Van Peters,Houston,TX,1,6448.2907,6448.2907,High Spender
+963,Anisha Lang,Rome,NY,1,6416.5944,6416.5944,High Spender
+1024,Coleman Boyd,El Paso,TX,1,6412.554700000001,6412.554700000001,High Spender
+579,Matilda Larson,Harlingen,TX,1,6397.4717,6397.4717,High Spender
+972,Damian Mills,Long Beach,NY,1,6396.9647,6396.9647,High Spender
+748,Oliva Blackwell,Elmhurst,NY,1,6382.9455,6382.9455,High Spender
+1302,Verda Gilbert,East Northport,NY,1,6349.3635,6349.3635,High Spender
+984,Ivette Warren,Franklin Square,NY,1,6335.663699999999,6335.663699999999,High Spender
+484,Chelsey Boyd,Euless,TX,1,6332.9424,6332.9424,High Spender
+1291,Shiloh Bates,Monsey,NY,1,6330.574699999999,6330.574699999999,High Spender
+1048,Ji Burt,Apple Valley,CA,1,6319.946,6319.946,High Spender
+1149,Drucilla Gilliam,Santa Clara,CA,1,6265.955,6265.955,High Spender
+246,Dionne Norris,Niagara Falls,NY,1,6261.957399999999,6261.957399999999,High Spender
+488,Joaquin Hawkins,Anaheim,CA,1,6259.265,6259.265,High Spender
+696,Norine Huffman,Encino,CA,1,6240.553999999999,6240.553999999999,High Spender
+1206,Mercy Brown,Hollis,NY,1,6239.2787,6239.2787,High Spender
+1247,Tammie Cherry,Massapequa,NY,1,6239.093599999999,6239.093599999999,High Spender
+124,Jeni Booker,South El Monte,CA,2,6235.5381,3117.76905,High Spender
+882,Hilda Harvey,Ballston Spa,NY,1,6229.1214,6229.1214,High Spender
+500,Moira Lester,Jackson Heights,NY,1,6196.6444,6196.6444,High Spender
+1144,Jewel Sparks,Oakland Gardens,NY,1,6187.1539,6187.1539,High Spender
+146,Stefany Potter,Saratoga Springs,NY,1,6183.5624,6183.5624,High Spender
+111,Shila White,Orchard Park,NY,1,6177.772499999999,6177.772499999999,High Spender
+758,Raymonde Garcia,Queensbury,NY,1,6169.963,6169.963,High Spender
+212,Buford Bridges,Troy,NY,1,6155.9644,6155.9644,High Spender
+724,Lois Steele,Ossining,NY,1,6152.6533,6152.6533,High Spender
+1135,Alisia Albert,Garland,TX,1,6150.9367,6150.9367,High Spender
+293,Tiny French,Plainview,NY,1,6102.963,6102.963,High Spender
+1276,Shona Mcmillan,Apple Valley,CA,1,6089.983,6089.983,High Spender
+1350,Annett Rush,Rosedale,NY,1,6089.930399999999,6089.930399999999,High Spender
+36,Bernita Mcdaniel,Liverpool,NY,2,6079.943,3039.9715,High Spender
+723,Vicki Wiggins,Wappingers Falls,NY,1,6074.048199999999,6074.048199999999,High Spender
+1040,Shantae Hammond,Victoria,TX,1,6068.9490000000005,6068.9490000000005,High Spender
+127,Erlinda Nielsen,Maspeth,NY,1,6034.965399999999,6034.965399999999,High Spender
+426,Daisy Ward,Pomona,CA,1,6023.9545,6023.9545,High Spender
+235,Jeromy Elliott,Bay Shore,NY,1,5989.965,5989.965,High Spender
+919,Ruthanne Hoover,Torrance,CA,1,5989.9367,5989.9367,High Spender
+1396,Delma Bailey,Anaheim,CA,1,5984.981,5984.981,High Spender
+660,Shara Pope,Ridgecrest,CA,1,5959.0657,5959.0657,High Spender
+1174,Aaron Knapp,Yonkers,NY,1,5927.551,5927.551,High Spender
+352,Josef Greer,Jamaica,NY,1,5925.560100000001,5925.560100000001,High Spender
+1316,Conrad Mueller,Massapequa,NY,1,5925.474700000001,5925.474700000001,High Spender
+744,Laurel Schultz,Mount Vernon,NY,1,5923.9551,5923.9551,High Spender
+1392,Trista Lambert,Fairport,NY,1,5922.4725,5922.4725,High Spender
+577,Danille Mcfarland,Rocklin,CA,1,5909.6148,5909.6148,High Spender
+749,Oralia Farley,Upland,CA,1,5893.554999999999,5893.554999999999,High Spender
+1257,Rosamaria Meyer,Webster,NY,1,5893.5494,5893.5494,High Spender
+1330,Karren Stevenson,San Carlos,CA,1,5891.162399999999,5891.162399999999,High Spender
+179,Deane Sears,Pittsford,NY,1,5887.3424,5887.3424,High Spender
+1021,Nicolas Carlson,Saint Albans,NY,1,5863.4454,5863.4454,High Spender
+1057,Conchita Boone,Mount Vernon,NY,1,5851.9257,5851.9257,High Spender
+1085,Adam Thornton,Central Islip,NY,1,5841.5215,5841.5215,High Spender
+1152,Tuyet Rosa,South El Monte,CA,1,5841.0992,5841.0992,High Spender
+862,Mellie Puckett,Fresh Meadows,NY,1,5835.858,5835.858,High Spender
+486,Valeri Marshall,East Meadow,NY,1,5834.1357,5834.1357,High Spender
+1310,Emanuel Mckee,Schenectady,NY,1,5833.974699999999,5833.974699999999,High Spender
+640,Allison Nolan,New City,NY,1,5809.4774,5809.4774,High Spender
+774,Nenita Mooney,Lawndale,CA,1,5806.037499999999,5806.037499999999,High Spender
+863,Shonta Preston,Utica,NY,1,5801.933999999999,5801.933999999999,High Spender
+833,Leone Emerson,Whitestone,NY,1,5779.8175,5779.8175,High Spender
+1172,Katherin Clark,Pittsford,NY,1,5777.7667,5777.7667,High Spender
+1119,Tora Dunlap,Monsey,NY,1,5775.5447,5775.5447,High Spender
+461,Effie Jenkins,Brentwood,NY,1,5768.2144,5768.2144,High Spender
+1215,Karl Stephens,Rockville Centre,NY,1,5745.955199999999,5745.955199999999,High Spender
+1244,Trang Hardin,Depew,NY,1,5732.4652,5732.4652,High Spender
+332,Reena Higgins,Canyon Country,CA,1,5728.9344,5728.9344,High Spender
+1134,Sherril Alvarado,Desoto,TX,1,5723.7441,5723.7441,High Spender
+327,Sharie Alvarez,New York,NY,1,5716.596,5716.596,High Spender
+1112,Hollis Rasmussen,Massapequa,NY,1,5709.9555,5709.9555,High Spender
+274,Josh Shaw,Hopewell Junction,NY,1,5701.1054,5701.1054,High Spender
+1014,Ling Newman,South Richmond Hill,NY,1,5699.981,5699.981,High Spender
+1365,Shenna Espinoza,Queensbury,NY,1,5699.981,5699.981,High Spender
+1260,Phuong Wolf,Schenectady,NY,1,5686.5815,5686.5815,High Spender
+281,Rayna Perry,Ozone Park,NY,1,5672.281,5672.281,High Spender
+923,Randee Pitts,Canyon Country,CA,1,5671.1307,5671.1307,High Spender
+81,Zina Bonner,San Lorenzo,CA,2,5660.9369,2830.46845,High Spender
+208,Denis Logan,Ridgecrest,CA,2,5651.0267,2825.51335,High Spender
+1321,Shantel Gregory,West Islip,NY,1,5644.9152,5644.9152,High Spender
+1041,Bettye Espinoza,Oswego,NY,1,5627.956999999999,5627.956999999999,High Spender
+1373,Lanora Robbins,West Babylon,NY,1,5600.0574,5600.0574,High Spender
+903,Maira Long,Hicksville,NY,1,5588.5185,5588.5185,High Spender
+1042,Larissa Hays,Elmont,NY,1,5588.3444,5588.3444,High Spender
+567,Sheila Travis,Longview,TX,1,5579.962799999999,5579.962799999999,High Spender
+565,Dagny Owen,San Angelo,TX,1,5578.1307,5578.1307,High Spender
+1200,Aubrey Durham,Port Washington,NY,1,5565.5645,5565.5645,High Spender
+958,Ciera Koch,Euless,TX,1,5557.3307,5557.3307,High Spender
+762,Quyen Houston,Central Islip,NY,1,5537.981699999999,5537.981699999999,High Spender
+998,Heather Chaney,Jamestown,NY,1,5528.957,5528.957,High Spender
+1254,Dung Reid,Canyon Country,CA,1,5515.9647,5515.9647,High Spender
+751,Hermila Mckay,Coachella,CA,1,5498.368,5498.368,High Spender
+410,Conception Slater,Bellmore,NY,1,5478.9485,5478.9485,High Spender
+1240,Bella Perez,Duarte,CA,1,5444.955999999999,5444.955999999999,High Spender
+605,Renita Henry,New Rochelle,NY,1,5442.074,5442.074,High Spender
+460,Romelia Myers,Garden City,NY,1,5440.362399999999,5440.362399999999,High Spender
+99,Carie Kidd,Monroe,NY,1,5431.8955000000005,5431.8955000000005,High Spender
+312,Cameron Carroll,Longview,TX,1,5419.973,5419.973,High Spender
+1235,Georgina Gonzales,Endicott,NY,1,5417.9727,5417.9727,High Spender
+1220,Carissa Cross,Huntington Station,NY,1,5404.055699999999,5404.055699999999,High Spender
+100,Kellie Franco,Commack,NY,1,5399.982,5399.982,High Spender
+530,Selene Austin,Duarte,CA,1,5382.0464,5382.0464,High Spender
+110,Ollie Zimmerman,Anaheim,CA,2,5371.338,2685.669,High Spender
+1280,Jackeline Colon,Wappingers Falls,NY,1,5342.1559,5342.1559,High Spender
+961,Iva Wilcox,Kingston,NY,1,5338.9555,5338.9555,High Spender
+1390,Genoveva Lloyd,Bayside,NY,1,5333.335,5333.335,High Spender
+1303,Renay Atkins,Woodside,NY,1,5332.9467,5332.9467,High Spender
+257,Earl Stanley,Elmhurst,NY,1,5315.9042,5315.9042,High Spender
+364,Bev Chang,Ithaca,NY,1,5291.965,5291.965,High Spender
+17,Caren Stephens,Scarsdale,NY,3,5275.326999999999,1758.4423333333332,High Spender
+1259,Kimbery Nieves,San Carlos,CA,1,5270.944799999999,5270.944799999999,High Spender
+1213,Yang Giles,San Angelo,TX,1,5244.955,5244.955,High Spender
+1319,Claris Santiago,Newburgh,NY,1,5231.8529,5231.8529,High Spender
+278,Myesha Burgess,Campbell,CA,1,5226.6626,5226.6626,High Spender
+413,Ginette Edwards,Baldwin,NY,1,5225.9475,5225.9475,High Spender
+142,Nicholas Vazquez,West Hempstead,NY,1,5224.9905,5224.9905,High Spender
+643,Melba Wilkinson,Floral Park,NY,1,5224.5464,5224.5464,High Spender
+1395,Eliseo Knight,Woodhaven,NY,1,5220.4734,5220.4734,High Spender
+611,Ashleigh Frank,Levittown,NY,1,5219.982,5219.982,High Spender
+917,Vernia Madden,Troy,NY,1,5219.982,5219.982,High Spender
+361,Virgina Berg,Valley Stream,NY,1,5154.146699999999,5154.146699999999,High Spender
+701,Alysia Nicholson,Oxnard,CA,1,5126.9531,5126.9531,High Spender
+1273,Cheree Hale,Oswego,NY,1,5122.348,5122.348,High Spender
+337,Majorie Wyatt,South Ozone Park,NY,1,5119.354,5119.354,High Spender
+1268,Sung Chambers,Kingston,NY,1,5115.9641,5115.9641,High Spender
+1313,Dante Grimes,Duarte,CA,1,5114.0907,5114.0907,High Spender
+966,Novella Patel,Glen Cove,NY,1,5107.863799999999,5107.863799999999,High Spender
+989,Loreen Byers,South Ozone Park,NY,1,5090.4175000000005,5090.4175000000005,High Spender
+447,Chasidy Tran,Vista,CA,1,5080.623,5080.623,High Spender
+217,Carline Collier,Fresno,CA,2,5073.0365,2536.51825,High Spender
+428,Hipolito Padilla,New Rochelle,NY,1,5062.3384,5062.3384,High Spender
+779,Major Merrill,Astoria,NY,1,5055.112999999999,5055.112999999999,High Spender
+1334,Ashleigh Finch,Newburgh,NY,1,5024.1645,5024.1645,High Spender
+1295,Alline Beasley,North Tonawanda,NY,1,5022.957399999999,5022.957399999999,High Spender
+524,Larraine Horn,Utica,NY,1,5017.8551,5017.8551,High Spender
+1233,Lise Hebert,Vista,CA,1,5015.7377,5015.7377,High Spender
+1322,Ai Forbes,Franklin Square,NY,1,5014.9637,5014.9637,High Spender
+1147,Kandace Ayers,Santa Monica,CA,1,5004.5978,5004.5978,High Spender
+848,Ernestina Skinner,Elmhurst,NY,1,4991.9665,4991.9665,High Spender
+1411,Shanda Stevenson,Freeport,NY,1,4960.4587,4960.4587,High Spender
+912,Inocencia Key,Massapequa Park,NY,1,4949.991,4949.991,High Spender
+1190,Romeo Steele,Port Jefferson Station,NY,1,4922.9485,4922.9485,High Spender
+1397,Dewayne Herring,Webster,NY,1,4921.154399999999,4921.154399999999,High Spender
+313,Melani Jarvis,Maspeth,NY,1,4918.366,4918.366,High Spender
+216,Wai Soto,Bethpage,NY,1,4912.157,4912.157,High Spender
+615,Jamika Blanchard,Fresh Meadows,NY,1,4911.4379,4911.4379,High Spender
+603,Genevieve Juarez,New Hyde Park,NY,1,4890.365400000001,4890.365400000001,High Spender
+459,Latosha Dalton,Bakersfield,CA,1,4877.406,4877.406,High Spender
+773,Yolando Wade,Massapequa,NY,1,4873.9557,4873.9557,High Spender
+440,Yevette Todd,Ballston Spa,NY,1,4863.968000000001,4863.968000000001,High Spender
+163,Margert Stevens,Rome,NY,1,4851.1372,4851.1372,High Spender
+973,Margaretta Clayton,Ridgecrest,CA,1,4835.376,4835.376,High Spender
+1408,Eleanor Mendez,Port Chester,NY,1,4829.1825,4829.1825,High Spender
+945,Krissy Ochoa,Port Washington,NY,1,4814.6255,4814.6255,High Spender
+1078,Theresia Barron,Forest Hills,NY,1,4803.6301,4803.6301,High Spender
+682,Arnita Thomas,Orchard Park,NY,1,4799.984,4799.984,High Spender
+213,Elenore Hensley,Hamburg,NY,1,4789.734799999999,4789.734799999999,High Spender
+819,Yahaira Robertson,Endicott,NY,1,4784.1587,4784.1587,High Spender
+965,Margit Osborn,Plainview,NY,1,4781.9310000000005,4781.9310000000005,High Spender
+1209,Deandrea Cox,Huntington,NY,1,4778.0236,4778.0236,High Spender
+1378,Enoch Rosario,Fresno,CA,1,4776.0444,4776.0444,High Spender
+23,Kaylee English,Hollis,NY,2,4775.9635,2387.98175,High Spender
+400,Alfredo Dodson,Depew,NY,1,4766.8345,4766.8345,High Spender
+288,Keturah Massey,Banning,CA,1,4765.4287,4765.4287,High Spender
+1242,Chauncey Donaldson,Franklin Square,NY,1,4762.4631,4762.4631,High Spender
+906,Erik Leblanc,Sugar Land,TX,1,4749.981,4749.981,High Spender
+739,Bobbi Banks,Bayside,NY,1,4746.6324,4746.6324,High Spender
+765,Spring Hayes,Ossining,NY,1,4737.2644,4737.2644,High Spender
+478,Emmett Hahn,Freeport,NY,1,4700.0627,4700.0627,High Spender
+396,Laverna Hernandez,Niagara Falls,NY,1,4699.9557,4699.9557,High Spender
+1301,Raven Curtis,Lawndale,CA,1,4692.8641,4692.8641,High Spender
+929,Thurman Ellis,Pleasanton,CA,1,4689.4559,4689.4559,High Spender
+443,Ayana Keith,Oxnard,CA,1,4685.0969,4685.0969,High Spender
+1169,Beatris Joyner,Spring Valley,NY,1,4665.5492,4665.5492,High Spender
+197,Andy O'neill,Rego Park,NY,1,4655.0404,4655.0404,High Spender
+555,Marry Benjamin,Forney,TX,1,4654.953,4654.953,High Spender
+952,Aileen Marquez,Torrance,CA,1,4644.9130000000005,4644.9130000000005,High Spender
+1425,Justina Jenkins,Shirley,NY,1,4639.984,4639.984,High Spender
+1328,Cindie Franklin,Lawndale,CA,1,4633.8544,4633.8544,High Spender
+885,Janna Hayden,Longview,TX,1,4624.9377,4624.9377,High Spender
+742,Evelina Manning,Mount Vernon,NY,1,4617.758,4617.758,High Spender
+280,Brenda Tate,San Angelo,TX,1,4616.0145,4616.0145,High Spender
+199,Clelia Workman,New Windsor,NY,1,4571.0727,4571.0727,High Spender
+223,Scarlet Yates,Patchogue,NY,1,4563.091,4563.091,High Spender
+986,Marcel Lindsay,Ossining,NY,1,4544.8471,4544.8471,High Spender
+1164,Patrina Tanner,Scarsdale,NY,1,4539.974,4539.974,High Spender
+156,Charlyn Cantrell,West Islip,NY,1,4534.383,4534.383,High Spender
+839,Carolann Russell,Glen Cove,NY,1,4521.8839,4521.8839,High Spender
+736,Genny Hensley,Redondo Beach,CA,1,4507.6134,4507.6134,High Spender
+1056,Rebbecca Espinoza,Mount Vernon,NY,1,4503.7459,4503.7459,High Spender
+970,Ruth Horton,Hollis,NY,1,4499.991,4499.991,High Spender
+1196,Ileana Holt,Patchogue,NY,1,4499.991,4499.991,High Spender
+1202,Carmina Emerson,Banning,CA,1,4497.5817,4497.5817,High Spender
+1129,Gilberto Sanders,Woodside,NY,1,4497.0048,4497.0048,High Spender
+894,Nathaniel Richard,New Windsor,NY,1,4495.2725,4495.2725,High Spender
+1062,Jerri Guthrie,Carmel,NY,1,4477.174,4477.174,High Spender
+1354,Alexandria Zamora,Schenectady,NY,1,4475.4635,4475.4635,High Spender
+1153,Ara Vazquez,San Carlos,CA,1,4466.6452,4466.6452,High Spender
+344,Herta Rollins,Mountain View,CA,1,4464.6642,4464.6642,High Spender
+554,Hilde Nieves,Campbell,CA,1,4459.2184,4459.2184,High Spender
+566,Cinthia Poole,Lake Jackson,TX,1,4458.955,4458.955,High Spender
+995,Amina Salazar,Canandaigua,NY,1,4447.724,4447.724,High Spender
+1091,Risa Gallagher,Rocklin,CA,1,4445.0609,4445.0609,High Spender
+711,Jovita Bishop,Staten Island,NY,1,4436.6034,4436.6034,High Spender
+526,Lazaro Moran,Sugar Land,TX,1,4422.9400000000005,4422.9400000000005,High Spender
+1419,Lurlene Cotton,Pleasanton,CA,1,4399.992,4399.992,High Spender
+215,Judith Finley,Whitestone,NY,1,4397.9639,4397.9639,High Spender
+606,Sarah Kirkland,Wappingers Falls,NY,1,4387.966,4387.966,High Spender
+887,Graig Cannon,Syosset,NY,1,4369.3445,4369.3445,High Spender
+910,Elenore William,Mcallen,TX,1,4334.0585,4334.0585,High Spender
+756,Graig Roth,West Babylon,NY,1,4318.4515,4318.4515,High Spender
+537,Carter Bentley,Carmel,NY,1,4318.0054,4318.0054,High Spender
+931,Porter Bass,San Angelo,TX,1,4305.9576,4305.9576,High Spender
+1362,Christiana Gross,Orchard Park,NY,1,4299.957,4299.957,High Spender
+900,Jule Davenport,San Carlos,CA,1,4298.4537,4298.4537,High Spender
+161,Crystle Gilliam,Smithtown,NY,1,4296.181500000001,4296.181500000001,High Spender
+527,Afton Juarez,Coram,NY,1,4279.5725,4279.5725,High Spender
+955,Delfina Gilliam,West Babylon,NY,1,4274.981,4274.981,High Spender
+624,Sharika Colon,Long Beach,NY,1,4271.113399999999,4271.113399999999,High Spender
+975,Annis Sanchez,Los Angeles,CA,1,4269.9572,4269.9572,High Spender
+113,Eliana Silva,Farmingdale,NY,1,4236.3466,4236.3466,High Spender
+807,Nathalie Knowles,West Islip,NY,1,4231.121999999999,4231.121999999999,High Spender
+1433,Nicola Knight,Scarsdale,NY,1,4226.230500000001,4226.230500000001,High Spender
+155,Lory Page,Bay Shore,NY,1,4214.973399999999,4214.973399999999,High Spender
+1298,Trudy Riddle,Schenectady,NY,1,4214.9468,4214.9468,High Spender
+781,Tajuana Riddle,Bayside,NY,1,4205.981699999999,4205.981699999999,High Spender
+1269,Gustavo Gamble,Port Washington,NY,1,4204.5258,4204.5258,High Spender
+1101,Louise Flowers,Depew,NY,1,4196.9552,4196.9552,High Spender
+612,Gabriel Wagner,Ballston Spa,NY,1,4196.0278,4196.0278,High Spender
+1097,Collen Dennis,San Pablo,CA,1,4195.3079,4195.3079,High Spender
+1163,Carmela Hays,Lawndale,CA,1,4186.5267,4186.5267,High Spender
+55,Diana Guerra,Merrick,NY,2,4183.6207,2091.81035,High Spender
+1113,Kendra Harrington,Jamestown,NY,1,4171.9479,4171.9479,High Spender
+831,Lory Berg,Oswego,NY,1,4169.981699999999,4169.981699999999,High Spender
+861,Olympia Figueroa,Hopewell Junction,NY,1,4169.9815,4169.9815,High Spender
+1096,Tonda Webb,Baldwinsville,NY,1,4169.3542,4169.3542,High Spender
+1246,Dale Rasmussen,Kingston,NY,1,4167.846,4167.846,High Spender
+1418,Penni Best,Anaheim,CA,1,4162.8555,4162.8555,High Spender
+236,Verona O'neill,Selden,NY,1,4157.9724,4157.9724,High Spender
+301,Annett Garrett,Scarsdale,NY,1,4156.6929,4156.6929,High Spender
+335,Scarlet Reed,Bronx,NY,1,4147.662,4147.662,High Spender
+1141,Mallie Osborn,Newburgh,NY,1,4135.9565,4135.9565,High Spender
+338,Abbey Pugh,Forest Hills,NY,1,4132.992,4132.992,High Spender
+1067,Lillia Gillespie,Rego Park,NY,1,4130.3445,4130.3445,High Spender
+178,Genoveva Tyler,New York,NY,1,4125.556500000001,4125.556500000001,High Spender
+62,Alica Hunter,East Elmhurst,NY,2,4122.1454,2061.0727,High Spender
+1133,Dung King,West Islip,NY,1,4115.9724,4115.9724,High Spender
+1376,Kimberley Reynolds,Port Washington,NY,1,4109.065,4109.065,High Spender
+760,Marisa Chambers,Amityville,NY,1,4105.112999999999,4105.112999999999,High Spender
+619,Ana Palmer,Anaheim,CA,1,4100.4359,4100.4359,High Spender
+202,Marni Bolton,Lancaster,NY,1,4095.0138,4095.0138,High Spender
+162,Kam Wilder,Newburgh,NY,1,4094.8481,4094.8481,High Spender
+1175,Sindy Anderson,Pomona,CA,1,4092.8567,4092.8567,High Spender
+691,Ladawn Downs,Houston,TX,1,4067.664,4067.664,High Spender
+1072,Maryalice Henry,Richardson,TX,1,4064.8377,4064.8377,High Spender
+946,Angella Bridges,Pittsford,NY,1,4062.3334,4062.3334,High Spender
+801,Ophelia Rodgers,Hopewell Junction,NY,1,4044.848700000001,4044.848700000001,High Spender
+1263,Rufina Chandler,New Hyde Park,NY,1,4044.783,4044.783,High Spender
+395,Fairy Robinson,Liverpool,NY,1,4041.1537,4041.1537,High Spender
+600,Joi Reeves,San Diego,CA,1,4038.5027,4038.5027,High Spender
+806,Reyes Merritt,Staten Island,NY,1,4037.9647,4037.9647,High Spender
+74,Georgeann Waller,North Tonawanda,NY,2,4036.9719999999998,2018.4859999999999,High Spender
+1066,Raeann Duncan,Anaheim,CA,1,4030.957,4030.957,High Spender
+450,Ellsworth Michael,Carmel,NY,1,4030.0561,4030.0561,High Spender
+597,Rudolf Moran,Maspeth,NY,1,4017.4401,4017.4401,High Spender
+386,Nelle Beck,Upland,CA,1,4012.6457,4012.6457,High Spender
+644,Valentin Mclaughlin,Lindenhurst,NY,1,4001.9184,4001.9184,High Spender
+521,Max Charles,Glen Cove,NY,1,3998.362,3998.362,High Spender
+362,Olevia Noel,Kingston,NY,1,3997.9747,3997.9747,High Spender
+865,Julia Joyner,Astoria,NY,1,3995.6247,3995.6247,High Spender
+1329,Sharyn Brewer,Hollis,NY,1,3994.4559,3994.4559,High Spender
+1311,Whitley Cannon,Coram,NY,1,3975.2343,3975.2343,High Spender
+118,Le Wood,Pittsford,NY,1,3974.6254,3974.6254,High Spender
+41,Kathie Freeman,Queensbury,NY,2,3962.0287,1981.01435,High Spender
+662,Loraine Sykes,Scarsdale,NY,1,3960.4315,3960.4315,High Spender
+1178,Wendie Nash,Oxnard,CA,1,3950.3624,3950.3624,High Spender
+614,Toshia Cardenas,Amsterdam,NY,1,3935.9680000000008,3935.9680000000008,High Spender
+143,Janae Doyle,Jackson Heights,NY,1,3920.663,3920.663,High Spender
+1001,Lee Roman,Brentwood,NY,1,3911.8625,3911.8625,High Spender
+309,Anderson Martin,Canandaigua,NY,1,3900.6587,3900.6587,High Spender
+1324,Arla Ellis,Utica,NY,1,3900.0607,3900.0607,High Spender
+1054,Arielle Levine,Garland,TX,1,3899.9657,3899.9657,High Spender
+1102,Henrietta Wagner,Fort Worth,TX,1,3891.5125,3891.5125,High Spender
+1083,Cher Alston,Wantagh,NY,1,3866.0454,3866.0454,High Spender
+937,Aida Koch,West Hempstead,NY,1,3865.7654,3865.7654,High Spender
+625,Donnetta Henson,Webster,NY,1,3860.1454,3860.1454,High Spender
+437,Laureen Barry,Orchard Park,NY,1,3859.928,3859.928,High Spender
+150,Weldon Michael,Huntington,NY,1,3840.882,3840.882,High Spender
+645,Lewis Garner,Brentwood,NY,1,3818.293,3818.293,High Spender
+1203,Georgeann Rojas,Desoto,TX,1,3818.2124,3818.2124,High Spender
+686,Darcel Harmon,Santa Clara,CA,1,3816.4624,3816.4624,High Spender
+133,Delbert Wilkins,Coram,NY,1,3810.823,3810.823,High Spender
+234,Winfred Harris,East Meadow,NY,1,3804.9214,3804.9214,High Spender
+168,Nettie Mcdaniel,South Ozone Park,NY,1,3801.6487,3801.6487,High Spender
+1437,Son Warner,Rockville Centre,NY,1,3799.9905,3799.9905,High Spender
+950,Verna Solis,Rochester,NY,1,3799.1634,3799.1634,High Spender
+1088,Jane Henderson,Apple Valley,CA,1,3793.158,3793.158,High Spender
+1296,Travis Whitley,Saint Albans,NY,1,3768.94,3768.94,High Spender
+515,Reita Dickson,Scarsdale,NY,1,3766.6347,3766.6347,High Spender
+1156,Han Wade,Howard Beach,NY,1,3763.8715,3763.8715,High Spender
+134,Brianna Moss,Hempstead,NY,1,3751.874,3751.874,High Spender
+890,Rosanne George,Ossining,NY,1,3750.8732,3750.8732,High Spender
+171,Miriam Baker,Uniondale,NY,1,3723.8275,3723.8275,High Spender
+1262,Brianne Hays,San Pablo,CA,1,3722.983,3722.983,High Spender
+1115,Lina Meadows,Glen Cove,NY,1,3720.8885,3720.8885,High Spender
+673,Adam Henderson,Los Banos,CA,1,3695.4745,3695.4745,High Spender
+11,Deshawn Mendoza,Monsey,NY,3,3690.2361,1230.0787,High Spender
+826,Shay Stephenson,Smithtown,NY,1,3671.7054,3671.7054,High Spender
+1188,Marcene Curtis,Yonkers,NY,1,3668.926,3668.926,High Spender
+856,Lara Guy,Ronkonkoma,NY,1,3659.9825,3659.9825,High Spender
+297,Christia Carson,Helotes,TX,1,3658.181,3658.181,High Spender
+270,Claudio Wise,Kingston,NY,1,3646.9827,3646.9827,High Spender
+474,Lavern Orr,Webster,NY,1,3644.045,3644.045,High Spender
+152,Katherina Odom,Plainview,NY,1,3643.544,3643.544,High Spender
+205,Harris Pittman,Jamaica,NY,1,3642.0126,3642.0126,High Spender
+657,Sam Lester,Baldwin,NY,1,3633.359,3633.359,High Spender
+1430,Tayna Wade,Bakersfield,CA,1,3628.5127,3628.5127,High Spender
+1353,Agatha Daniels,South El Monte,CA,1,3613.7245,3613.7245,High Spender
+210,Priscilla Wilkins,Albany,NY,1,3599.991,3599.991,High Spender
+1003,Sharell Ross,Vista,CA,1,3594.863,3594.863,High Spender
+716,Sebrina Hart,Coram,NY,1,3591.27,3591.27,High Spender
+1223,Bronwyn Vargas,New Windsor,NY,1,3589.5660000000003,3589.5660000000003,High Spender
+121,Lucy Woods,Palos Verdes Peninsula,CA,2,3589.122,1794.561,High Spender
+670,Shawnda Glover,Liverpool,NY,1,3586.7070000000003,3586.7070000000003,High Spender
+1189,Sheila Goodman,Uniondale,NY,1,3581.4619999999995,3581.4619999999995,High Spender
+277,Mark Garrett,Monroe,NY,1,3570.5560000000005,3570.5560000000005,High Spender
+898,Crysta Velez,Houston,TX,1,3567.561,3567.561,High Spender
+1028,Shanna Bonner,Canandaigua,NY,1,3564.9664999999995,3564.9664999999995,High Spender
+641,Derrick Marks,Glendora,CA,1,3563.0245000000004,3563.0245000000004,High Spender
+761,Rod Hatfield,Ronkonkoma,NY,1,3546.929,3546.929,High Spender
+599,Jonell Rivas,Amarillo,TX,1,3535.2759,3535.2759,High Spender
+694,Lanie Dunn,North Tonawanda,NY,1,3531.3039,3531.3039,High Spender
+469,Micki Rutledge,Richmond Hill,NY,1,3511.7384,3511.7384,High Spender
+512,Hee Greer,Selden,NY,1,3509.973,3509.973,High Spender
+1306,America Swanson,Webster,NY,1,3505.766,3505.766,High Spender
+560,Tricia Daniels,Forney,TX,1,3502.4932,3502.4932,High Spender
+907,Daina Sampson,Longview,TX,1,3495.6624,3495.6624,High Spender
+432,Julius Holt,East Meadow,NY,1,3489.9734000000003,3489.9734000000003,High Spender
+1219,Alden Atkinson,Shirley,NY,1,3484.0719,3484.0719,High Spender
+648,Catrice Hicks,San Pablo,CA,1,3475.8443,3475.8443,High Spender
+823,Tina Bush,Maspeth,NY,1,3464.0224,3464.0224,High Spender
+705,Camille Harvey,Huntington,NY,1,3463.545,3463.545,High Spender
+1093,Alejandrina Hodges,Deer Park,NY,1,3447.2278,3447.2278,High Spender
+1358,Noble Glover,Orchard Park,NY,1,3443.9377000000004,3443.9377000000004,High Spender
+1346,Sanora Webster,Los Angeles,CA,1,3442.8135,3442.8135,High Spender
+78,Chi Goff,Palos Verdes Peninsula,CA,2,3441.2631,1720.63155,High Spender
+1211,Brenton Whitaker,Niagara Falls,NY,1,3439.944,3439.944,High Spender
+435,Izola Hobbs,Woodhaven,NY,1,3439.4575,3439.4575,High Spender
+1191,Tam Fisher,Rochester,NY,1,3439.1719,3439.1719,High Spender
+1080,Mirella Duffy,Longview,TX,1,3430.9631,3430.9631,High Spender
+1124,Hubert Reilly,Amityville,NY,1,3419.981,3419.981,High Spender
+994,Demarcus Reese,Yorktown Heights,NY,1,3403.8540000000003,3403.8540000000003,High Spender
+864,Lore Sykes,Buffalo,NY,1,3390.465,3390.465,High Spender
+1344,Eloisa Tucker,Howard Beach,NY,1,3377.973,3377.973,High Spender
+813,Neville Mcclain,West Hempstead,NY,1,3376.5951,3376.5951,High Spender
+616,Shery Acosta,Saratoga Springs,NY,1,3372.138,3372.138,High Spender
+1071,Shemeka Lyons,Pomona,CA,1,3370.5721,3370.5721,High Spender
+709,Vinnie Chan,Forest Hills,NY,1,3359.9717,3359.9717,High Spender
+1265,Bonita Marshall,Endicott,NY,1,3359.7477,3359.7477,High Spender
+260,Rodrick Shelton,Canyon Country,CA,1,3349.6487,3349.6487,High Spender
+688,Pearlie Cochran,Campbell,CA,1,3347.9814,3347.9814,High Spender
+45,Bennett Armstrong,Bethpage,NY,2,3347.648,1673.824,High Spender
+533,Garret Clay,Corpus Christi,TX,1,3346.0319,3346.0319,High Spender
+977,Barton Cox,Amityville,NY,1,3328.0631,3328.0631,High Spender
+1177,Charlesetta Soto,Poughkeepsie,NY,1,3302.1734,3302.1734,High Spender
+951,Steve Bender,Scarsdale,NY,1,3292.427,3292.427,High Spender
+722,Camila Carroll,San Antonio,TX,1,3292.0046,3292.0046,High Spender
+185,Morton Lee,San Angelo,TX,1,3290.7715,3290.7715,High Spender
+1184,Annabelle Hebert,Spring Valley,NY,1,3287.322,3287.322,High Spender
+873,Patience Clayton,Niagara Falls,NY,1,3278.054,3278.054,High Spender
+132,Boyd Irwin,Hamburg,NY,1,3271.8135,3271.8135,High Spender
+470,Loise Walker,Shirley,NY,1,3270.231,3270.231,High Spender
+954,Hassan Nash,Hicksville,NY,1,3269.9827,3269.9827,High Spender
+1416,Miranda Kennedy,Astoria,NY,1,3254.9906999999994,3254.9906999999994,High Spender
+358,Kandace Giles,Wantagh,NY,1,3247.2480000000005,3247.2480000000005,High Spender
+1352,Dorothea Miranda,Upland,CA,1,3243.7534,3243.7534,High Spender
+899,Carisa Carpenter,Victoria,TX,1,3239.982,3239.982,High Spender
+498,Edda Young,North Tonawanda,NY,1,3238.9623999999994,3238.9623999999994,High Spender
+820,Sandy Mills,Schenectady,NY,1,3229.9525,3229.9525,High Spender
+1154,Barry Albert,Auburn,NY,1,3227.391,3227.391,High Spender
+348,Darren Witt,Coachella,CA,1,3223.184,3223.184,High Spender
+1082,Divina Madden,Long Beach,NY,1,3199.992,3199.992,High Spender
+353,Tisa Whitney,Monsey,NY,1,3196.2044,3196.2044,High Spender
+429,Emmett Casey,Valley Stream,NY,1,3194.082,3194.082,High Spender
+653,Florencio Davenport,Jamestown,NY,1,3191.9525,3191.9525,High Spender
+1059,Season Harvey,East Northport,NY,1,3185.9454,3185.9454,High Spender
+1252,Adriene Rollins,Plainview,NY,1,3181.5405,3181.5405,High Spender
+1145,Deandrea Vega,Yonkers,NY,1,3172.4449,3172.4449,High Spender
+582,Soledad Moses,Jackson Heights,NY,1,3168.5541,3168.5541,High Spender
+1068,Doris Kaufman,Duarte,CA,1,3167.9562,3167.9562,High Spender
+764,Terrell Mathis,Selden,NY,1,3163.0426,3163.0426,High Spender
+618,Skye Pope,Richmond Hill,NY,1,3159.926,3159.926,High Spender
+1326,Tarra Guerrero,Auburn,NY,1,3155.9565,3155.9565,High Spender
+427,Latonya Dixon,Garland,TX,1,3149.991,3149.991,High Spender
+832,Pamala Fowler,Ballston Spa,NY,1,3146.4645,3146.4645,High Spender
+1208,Leila Barr,Carmel,NY,1,3144.327,3144.327,High Spender
+303,Rolanda Larsen,Woodhaven,NY,1,3136.0432,3136.0432,High Spender
+1218,Donovan Cantrell,Oakland,CA,1,3126.6414,3126.6414,High Spender
+1267,Earline Gordon,Ronkonkoma,NY,1,3126.6414,3126.6414,High Spender
+1167,Ryan Carter,Nanuet,NY,1,3126.6414,3126.6414,High Spender
+1032,Vernon Knowles,Huntington Station,NY,1,3121.4817,3121.4817,High Spender
+102,Marisol Goodman,Canandaigua,NY,1,3121.132,3121.132,High Spender
+1160,Efren Whitfield,Euless,TX,1,3110.8567000000003,3110.8567000000003,High Spender
+628,Ehtel Cobb,Lockport,NY,1,3105.9644,3105.9644,High Spender
+434,Douglass Little,Duarte,CA,1,3092.9448,3092.9448,High Spender
+480,Garland Weaver,Amsterdam,NY,1,3074.2065,3074.2065,High Spender
+712,Kecia Olsen,Santa Cruz,CA,1,3065.9825,3065.9825,High Spender
+273,Queenie Vance,Ozone Park,NY,1,3056.9624,3056.9624,High Spender
+1030,Saran Moses,Brooklyn,NY,1,3049.983,3049.983,High Spender
+518,Homer Powers,Palos Verdes Peninsula,CA,1,3039.981,3039.981,High Spender
+679,Tuan Wolfe,West Babylon,NY,1,3038.3214,3038.3214,High Spender
+92,Tena Cruz,Farmingdale,NY,2,3037.1355000000003,1518.5677500000002,High Spender
+1127,Waldo Hart,Queensbury,NY,1,3032.982,3032.982,High Spender
+214,Ross Pugh,North Tonawanda,NY,1,3032.7401,3032.7401,High Spender
+1049,Marcelino Mcbride,Clifton Park,NY,1,3027.0319,3027.0319,High Spender
+507,Sheree Pena,Staten Island,NY,1,3022.8715,3022.8715,High Spender
+941,Danyell Dickerson,Central Islip,NY,1,3018.2852000000003,3018.2852000000003,High Spender
+355,Arvilla Weiss,Bay Shore,NY,1,3015.9719,3015.9719,High Spender
+1404,Loyce Conway,Central Islip,NY,1,3015.3129,3015.3129,High Spender
+1413,Ophelia Decker,New Windsor,NY,1,3014.324,3014.324,High Spender
+129,Walton Dejesus,Lockport,NY,1,3011.481,3011.481,High Spender
+1287,Victor Pittman,Astoria,NY,1,2991.759,2991.759,High Spender
+580,Mellisa Kim,Los Angeles,CA,1,2975.9906999999994,2975.9906999999994,High Spender
+1304,Tama Berg,Hollis,NY,1,2966.6442,2966.6442,High Spender
+174,Babara Ochoa,Scarsdale,NY,1,2963.981,2963.981,High Spender
+412,Dexter Roberts,Sunnyside,NY,1,2963.981,2963.981,High Spender
+497,Ezra Fowler,Nanuet,NY,1,2958.3021,2958.3021,High Spender
+307,Fransisca Nicholson,Glendora,CA,1,2942.982,2942.982,High Spender
+1281,Marlen Dawson,Woodside,NY,1,2932.4812,2932.4812,High Spender
+1400,Shayla Hart,Woodhaven,NY,1,2928.684,2928.684,High Spender
+1375,Carlena Salinas,Jamaica,NY,1,2915.108,2915.108,High Spender
+669,Willis Randolph,Harlingen,TX,1,2899.4846,2899.4846,High Spender
+771,Agnes Sims,Buffalo,NY,1,2891.7542000000003,2891.7542000000003,High Spender
+1033,Jeannette Skinner,Forest Hills,NY,1,2889.8561,2889.8561,High Spender
+1285,Garth Huff,Glendora,CA,1,2881.14,2881.14,High Spender
+982,Orval Hunter,San Angelo,TX,1,2877.7652,2877.7652,High Spender
+799,India Barron,Huntington,NY,1,2873.94,2873.94,High Spender
+979,Ingeborg Ellison,Ithaca,NY,1,2867.275,2867.275,High Spender
+489,Kirstie Vazquez,Saratoga Springs,NY,1,2853.963,2853.963,High Spender
+1055,Hildegarde Christensen,Maspeth,NY,1,2849.9905,2849.9905,High Spender
+1105,Armando Black,Richardson,TX,1,2843.0734,2843.0734,High Spender
+333,Ami Mcmahon,Sunnyside,NY,1,2840.0461,2840.0461,High Spender
+1140,Penney Hall,Liverpool,NY,1,2835.5514,2835.5514,High Spender
+1379,Dorine Thornton,Sunnyside,NY,1,2834.8444,2834.8444,High Spender
+667,Etsuko Garrison,Richmond Hill,NY,1,2827.9494,2827.9494,High Spender
+204,Alpha King,Rockville Centre,NY,1,2813.5587,2813.5587,High Spender
+1029,Ping Quinn,Rowlett,TX,1,2804.144,2804.144,High Spender
+1185,Corine Stuart,Clifton Park,NY,1,2801.932,2801.932,High Spender
+1197,Nakisha Clay,Port Washington,NY,1,2800.2975,2800.2975,High Spender
+1108,Bao Wade,Desoto,TX,1,2793.0481,2793.0481,High Spender
+439,Sunshine Rosario,Jamaica,NY,1,2789.9907,2789.9907,High Spender
+380,Alesia Horne,Selden,NY,1,2787.9590000000003,2787.9590000000003,High Spender
+1216,Elvina Gates,Pleasanton,CA,1,2780.547,2780.547,High Spender
+106,Raul Melendez,Elmhurst,NY,1,2770.963,2770.963,High Spender
+326,Shiela Calderon,Rocklin,CA,1,2768.3634,2768.3634,High Spender
+520,Andreas Herman,Mount Vernon,NY,1,2754.9905,2754.9905,High Spender
+892,Alissa Craft,Ossining,NY,1,2754.9905,2754.9905,High Spender
+198,Luis Tyler,Amarillo,TX,1,2749.3474,2749.3474,High Spender
+737,Melita Dominguez,Auburn,NY,1,2748.7464,2748.7464,High Spender
+519,Rudolf Gilliam,Palos Verdes Peninsula,CA,1,2747.2395,2747.2395,High Spender
+1058,Aisha Woods,Webster,NY,1,2743.984,2743.984,High Spender
+987,Louis Powell,Staten Island,NY,1,2738.2497000000003,2738.2497000000003,High Spender
+1275,Lenita Bonner,Los Banos,CA,1,2726.4905,2726.4905,High Spender
+790,Petronila Gallegos,Howard Beach,NY,1,2719.4764000000005,2719.4764000000005,High Spender
+103,Sylvie Wilkerson,Syosset,NY,1,2718.3920000000003,2718.3920000000003,High Spender
+1271,Roy Chan,Pomona,CA,1,2717.964,2717.964,High Spender
+828,Renato Morton,Mount Vernon,NY,1,2716.7650000000003,2716.7650000000003,High Spender
+1229,Carina Lynch,Wappingers Falls,NY,1,2707.8278,2707.8278,High Spender
+1210,Shawnna Frank,Woodside,NY,1,2705.007,2705.007,High Spender
+650,Rita Bailey,Ossining,NY,1,2701.1742,2701.1742,High Spender
+323,Jeniffer Slater,Schenectady,NY,1,2699.991,2699.991,High Spender
+1272,Houston Vasquez,Fullerton,CA,1,2699.991,2699.991,High Spender
+1432,Zona Cameron,East Northport,NY,1,2696.9907,2696.9907,High Spender
+299,Jame Riggs,Bay Shore,NY,1,2687.1434,2687.1434,High Spender
+266,Myung Hooper,Elmont,NY,1,2681.957,2681.957,High Spender
+953,Kattie Stevenson,Helotes,TX,1,2681.1565,2681.1565,High Spender
+1335,Corina Lynch,Rosedale,NY,1,2672.6926,2672.6926,High Spender
+1183,Kim Clark,Merrick,NY,1,2664.9644,2664.9644,High Spender
+243,Natosha Rowland,Ballston Spa,NY,1,2658.7627,2658.7627,High Spender
+256,Erma Salinas,Merrick,NY,1,2658.1454,2658.1454,High Spender
+1075,Dann Huff,Huntington Station,NY,1,2653.073,2653.073,High Spender
+1128,Bea Kane,Mahopac,NY,1,2643.2447,2643.2447,High Spender
+636,Ashton Lott,Floral Park,NY,1,2635.122,2635.122,High Spender
+1394,Genny Fields,Amityville,NY,1,2615.976,2615.976,High Spender
+735,Aide Franco,Atwater,CA,1,2605.2824,2605.2824,High Spender
+632,Yvette Rogers,Franklin Square,NY,1,2599.168,2599.168,High Spender
+191,Graciela Barber,Oxnard,CA,2,2593.1289,1296.56445,High Spender
+1388,Nanette Harris,East Meadow,NY,1,2559.992,2559.992,High Spender
+201,Candis Harding,Ballston Spa,NY,1,2548.9732,2548.9732,High Spender
+98,Violet Valenzuela,Plattsburgh,NY,1,2546.4665000000005,2546.4665000000005,High Spender
+1384,Elmo Sweeney,San Carlos,CA,1,2518.1494,2518.1494,High Spender
+757,Lamar Greer,Levittown,NY,1,2511.4647000000004,2511.4647000000004,High Spender
+1123,Raphael O'neil,Fairport,NY,1,2509.946,2509.946,High Spender
+562,Alejandro Norman,Upland,CA,1,2509.881,2509.881,High Spender
+542,Timothy Byers,Ronkonkoma,NY,1,2501.764,2501.764,High Spender
+207,Michel Blankenship,Forney,TX,1,2500.4381000000003,2500.4381000000003,High Spender
+872,Silas Tate,Corpus Christi,TX,1,2497.9559,2497.9559,High Spender
+262,Rubin Decker,Buffalo,NY,1,2484.4274,2484.4274,High Spender
+180,Karey Steele,Farmingdale,NY,1,2478.4,2478.4,High Spender
+1266,Myrl Gay,Garland,TX,1,2474.9727,2474.9727,High Spender
+1264,Devin Velazquez,Brentwood,NY,1,2469.9585,2469.9585,High Spender
+1351,Carman Hardy,Jamestown,NY,1,2465.4572,2465.4572,High Spender
+706,Lolita O'neill,Massapequa Park,NY,1,2452.9480000000003,2452.9480000000003,High Spender
+552,Lea Key,Banning,CA,1,2449.7546,2449.7546,High Spender
+495,Travis Goodman,Los Banos,CA,1,2446.941,2446.941,High Spender
+988,Vanda Holmes,Syosset,NY,1,2432.9444000000003,2432.9444000000003,High Spender
+795,Mariam Miranda,Franklin Square,NY,1,2431.165,2431.165,High Spender
+385,Rochelle Ward,Glendora,CA,1,2427.9567,2427.9567,High Spender
+639,Ronald Parsons,Maspeth,NY,1,2420.553,2420.553,High Spender
+818,Joel Wynn,San Diego,CA,1,2419.7634,2419.7634,High Spender
+1381,Mercedez Brooks,Duarte,CA,1,2414.963,2414.963,High Spender
+936,Sherilyn Wilcox,Ossining,NY,1,2411.4715,2411.4715,High Spender
+1282,Alexis Mack,New City,NY,1,2402.476,2402.476,High Spender
+393,Gertrude Terry,Upland,CA,1,2379.973,2379.973,High Spender
+777,Ilda Roberson,Kingston,NY,1,2379.4635,2379.4635,High Spender
+117,Dacia William,Sugar Land,TX,2,2371.4545,1185.72725,High Spender
+250,Ivonne Yang,El Paso,TX,1,2371.1624,2371.1624,High Spender
+1104,Khalilah Robertson,Spring Valley,NY,1,2362.1628,2362.1628,High Spender
+1121,Shasta Combs,Yorktown Heights,NY,1,2360.3907,2360.3907,High Spender
+467,Clare Neal,Mahopac,NY,1,2357.9642,2357.9642,High Spender
+510,Faustino Delacruz,South Richmond Hill,NY,1,2346.6624,2346.6624,High Spender
+319,Justin Newton,Apple Valley,CA,1,2337.4625,2337.4625,High Spender
+131,Tanesha Hampton,Syosset,NY,1,2335.5207,2335.5207,High Spender
+1323,Ebony Cotton,West Babylon,NY,1,2333.356,2333.356,High Spender
+1039,Bee Baker,Liverpool,NY,1,2329.5760000000005,2329.5760000000005,High Spender
+287,Mireille Puckett,Oxnard,CA,1,2320.5564000000004,2320.5564000000004,High Spender
+1380,Eliz Lynch,Uniondale,NY,1,2319.992,2319.992,High Spender
+139,Wanita Davenport,Spring Valley,NY,1,2319.976,2319.976,High Spender
+1308,Shea Howell,South El Monte,CA,1,2319.9680000000003,2319.9680000000003,High Spender
+1399,Angelika Perry,Canandaigua,NY,1,2319.7539,2319.7539,High Spender
+233,Mariana Strong,Santa Clara,CA,2,2317.084,1158.542,High Spender
+502,Malinda Baxter,Whitestone,NY,1,2312.4447,2312.4447,High Spender
+967,Laurette Hebert,Canandaigua,NY,1,2309.3035,2309.3035,High Spender
+408,Edra Fitzgerald,Central Islip,NY,1,2297.7575,2297.7575,High Spender
+1181,Agustina Lawrence,Brooklyn,NY,1,2283.8072,2283.8072,High Spender
+402,Kerrie Morton,Pittsford,NY,1,2282.965,2282.965,High Spender
+44,Onita Johns,Elmont,NY,2,2270.5392,1135.2696,High Spender
+1251,Nanette Roman,Glendora,CA,1,2259.3407,2259.3407,High Spender
+315,Justina Jenkins,Baldwin,NY,1,2258.1215,2258.1215,High Spender
+817,Zelda Pratt,Lancaster,NY,1,2252.915,2252.915,High Spender
+939,Maximina Hutchinson,Corpus Christi,TX,1,2230.5485,2230.5485,High Spender
+1278,Loan Graham,Jackson Heights,NY,1,2228.2451,2228.2451,High Spender
+575,Laurence Christian,Jamaica,NY,1,2222.8722,2222.8722,High Spender
+1027,Shanita Wiley,Saint Albans,NY,1,2217.6427000000003,2217.6427000000003,High Spender
+759,Cira Downs,Oakland,CA,1,2214.0537,2214.0537,High Spender
+770,Lavonda Stephenson,Bay Shore,NY,1,2208.9745,2208.9745,High Spender
+1046,Dane Mcdaniel,Canandaigua,NY,1,2205.7557,2205.7557,High Spender
+8,Jacquline Duncan,Jackson Heights,NY,3,2201.6567,733.8855666666667,High Spender
+1401,Willetta Murphy,East Elmhurst,NY,1,2200.9444,2200.9444,High Spender
+436,Honey Camacho,Bayside,NY,1,2200.8641,2200.8641,High Spender
+546,Thad Castro,Brentwood,NY,1,2197.9500000000003,2197.9500000000003,High Spender
+553,Rory Cooper,Rocklin,CA,1,2197.892,2197.892,High Spender
+789,Tad Gardner,Niagara Falls,NY,1,2195.5747,2195.5747,High Spender
+1331,Divina Reeves,Newburgh,NY,1,2195.0517,2195.0517,High Spender
+1087,Willow Gardner,Pleasanton,CA,1,2190.566,2190.566,High Spender
+324,Laureen Paul,Bellmore,NY,1,2165.0817,2165.0817,High Spender
+241,Manie Sanchez,Queensbury,NY,1,2157.916,2157.916,High Spender
+1045,Pasquale Hogan,Vista,CA,1,2155.172,2155.172,High Spender
+376,Elanor Patrick,Victoria,TX,1,2136.531,2136.531,High Spender
+938,Emory O'connor,Rochester,NY,1,2135.0624,2135.0624,High Spender
+1217,Carlie Terrell,Yonkers,NY,1,2133.9264000000003,2133.9264000000003,High Spender
+1179,Vernetta Banks,Brooklyn,NY,1,2123.5632,2123.5632,High Spender
+1231,Selene Vega,Campbell,CA,1,2119.259,2119.259,High Spender
+466,Collen Hayes,Smithtown,NY,1,2113.5840000000003,2113.5840000000003,High Spender
+668,Calandra Stanton,Lake Jackson,TX,1,2100.9225,2100.9225,High Spender
+909,Alita Salinas,Uniondale,NY,1,2099.9637,2099.9637,High Spender
+1409,Lamar Bush,Buffalo,NY,1,2093.4135,2093.4135,High Spender
+584,Lynne Anderson,El Paso,TX,1,2090.6642,2090.6642,High Spender
+1250,Neoma Daugherty,Mount Vernon,NY,1,2083.1605,2083.1605,High Spender
+190,Toya Pratt,Long Beach,NY,1,2082.1435,2082.1435,High Spender
+1234,Joshua Berg,Ossining,NY,1,2069.4549,2069.4549,High Spender
+189,Damian Dawson,Liverpool,NY,1,2069.3725,2069.3725,High Spender
+620,Eric Hardin,Jamaica,NY,1,2065.9827,2065.9827,High Spender
+1182,Trinidad Chapman,Ronkonkoma,NY,1,2052.3520000000003,2052.3520000000003,High Spender
+1429,Lorrie Justice,Pomona,CA,1,2042.0634,2042.0634,High Spender
+1367,Lucile Manning,Campbell,CA,1,2032.4445,2032.4445,High Spender
+1193,Phebe Soto,South Ozone Park,NY,1,2024.0637,2024.0637,High Spender
+1187,Kenyetta Mason,Flushing,NY,1,2013.965,2013.965,High Spender
+845,Kathyrn Bush,Bronx,NY,1,2011.4626,2011.4626,High Spender
+855,Lean Stark,Upland,CA,1,2008.7628,2008.7628,High Spender
+237,Elvera Peck,Banning,CA,2,2007.5812,1003.7906,High Spender
+1385,Kenton Hughes,Canandaigua,NY,1,2006.0629,2006.0629,High Spender
+431,Luciano Marsh,Bellmore,NY,1,1999.3494,1999.3494,Medium Spender
+359,Angie Powers,Pomona,CA,1,1990.1628,1990.1628,Medium Spender
+680,Mathilda Pennington,New City,NY,1,1987.966,1987.966,Medium Spender
+797,Cathey Lamb,Bayside,NY,1,1984.073,1984.073,Medium Spender
+932,Yvonne Bean,Wappingers Falls,NY,1,1973.7314,1973.7314,Medium Spender
+854,Phylis Adkins,New York,NY,1,1972.9624,1972.9624,Medium Spender
+357,Sheri Cole,San Jose,CA,1,1970.5907,1970.5907,Medium Spender
+944,Tonja Henderson,Scarsdale,NY,1,1964.081,1964.081,Medium Spender
+1355,Thad Gilliam,Levittown,NY,1,1961.0812,1961.0812,Medium Spender
+1114,Douglass Blankenship,Albany,NY,1,1951.3474,1951.3474,Medium Spender
+1000,Shiloh Reeves,West Babylon,NY,1,1950.575,1950.575,Medium Spender
+548,Dori Alvarez,Kingston,NY,1,1949.6365,1949.6365,Medium Spender
+825,Kristel Byrd,Hicksville,NY,1,1934.9634,1934.9634,Medium Spender
+331,Aleta Mack,Bay Shore,NY,1,1929.514,1929.514,Medium Spender
+796,Rosalie Coffey,Upland,CA,1,1926.581,1926.581,Medium Spender
+1173,Chanel May,Garden City,NY,1,1904.4585,1904.4585,Medium Spender
+556,Vernell Goff,Monroe,NY,1,1902.5629,1902.5629,Medium Spender
+708,Majorie Glover,Apple Valley,CA,1,1899.981,1899.981,Medium Spender
+449,Josie Schultz,Canyon Country,CA,1,1894.541,1894.541,Medium Spender
+1232,Jong Guthrie,Bethpage,NY,1,1891.1125,1891.1125,Medium Spender
+940,Marina Hinton,Encino,CA,1,1885.8839,1885.8839,Medium Spender
+1107,Lynda Newman,Saratoga Springs,NY,1,1868.9634,1868.9634,Medium Spender
+811,Shanti Johnston,Staten Island,NY,1,1863.966,1863.966,Medium Spender
+1363,Nestor Haynes,Houston,TX,1,1860.5825,1860.5825,Medium Spender
+962,Maple Griffin,Copperas Cove,TX,1,1856.6117,1856.6117,Medium Spender
+1407,Hugh Craft,Centereach,NY,1,1856.0750000000005,1856.0750000000005,Medium Spender
+71,Takako Casey,Bronx,NY,2,1855.3325,927.66625,Medium Spender
+935,Genevie Miles,Monroe,NY,1,1850.0567,1850.0567,Medium Spender
+430,Kandi Mcneil,Massapequa Park,NY,1,1847.0647,1847.0647,Medium Spender
+1117,Jeffrey Hill,Rosedale,NY,1,1845.882,1845.882,Medium Spender
+913,Liliana Kerr,Desoto,TX,1,1841.6217,1841.6217,Medium Spender
+261,Ferne Kline,Fullerton,CA,1,1837.4717,1837.4717,Medium Spender
+638,Tomeka Higgins,Poughkeepsie,NY,1,1832.0628,1832.0628,Medium Spender
+1299,Shauna Edwards,Yorktown Heights,NY,1,1831.1814,1831.1814,Medium Spender
+1410,Lurlene Finch,Yonkers,NY,1,1829.6655,1829.6655,Medium Spender
+1343,Jama Rodriquez,Upland,CA,1,1818.4545,1818.4545,Medium Spender
+1386,Cesar Wilkins,San Diego,CA,1,1806.4125,1806.4125,Medium Spender
+1038,Garry Juarez,Forest Hills,NY,1,1805.966,1805.966,Medium Spender
+858,Klara Kim,Rome,NY,1,1804.8565,1804.8565,Medium Spender
+343,Jesica Fields,Commack,NY,1,1800.4815,1800.4815,Medium Spender
+1016,Shenna Benton,New York,NY,1,1797.975,1797.975,Medium Spender
+914,Hortencia O'neil,Rockville Centre,NY,1,1793.7574,1793.7574,Medium Spender
+1047,Jamaal Baker,Elmhurst,NY,1,1786.465,1786.465,Medium Spender
+710,Ezra Silva,New Windsor,NY,1,1765.1307,1765.1307,Medium Spender
+535,Inge Olsen,Long Beach,NY,1,1759.976,1759.976,Medium Spender
+365,Rodger Rojas,Bayside,NY,1,1758.514,1758.514,Medium Spender
+232,Freddie Mathis,Euless,TX,1,1755.3725,1755.3725,Medium Spender
+629,Evelina Byrd,Buffalo,NY,1,1754.1460000000002,1754.1460000000002,Medium Spender
+814,Ghislaine Compton,Lindenhurst,NY,1,1754.0464,1754.0464,Medium Spender
+1180,Myrtle Gardner,Farmingdale,NY,1,1753.7717,1753.7717,Medium Spender
+1198,Cheryll Snyder,Brooklyn,NY,1,1745.9640000000002,1745.9640000000002,Medium Spender
+1371,Pandora Estes,New Hyde Park,NY,1,1734.9325,1734.9325,Medium Spender
+188,Sharla Flynn,Oxnard,CA,2,1729.775,864.8875,Medium Spender
+254,Cristobal Hutchinson,Lawndale,CA,1,1716.553,1716.553,Medium Spender
+416,Luke Fuller,Hempstead,NY,1,1709.3652,1709.3652,Medium Spender
+933,Lurline Rivers,Howard Beach,NY,1,1708.3719,1708.3719,Medium Spender
+1431,Mark Benton,East Elmhurst,NY,1,1705.9632,1705.9632,Medium Spender
+563,Rodney Odom,Richmond Hill,NY,1,1703.6815,1703.6815,Medium Spender
+1212,Jaqueline Cummings,Huntington Station,NY,1,1697.9717,1697.9717,Medium Spender
+834,Brain Skinner,Euless,TX,1,1694.0557,1694.0557,Medium Spender
+745,Carolyne Conley,Floral Park,NY,1,1692.5721,1692.5721,Medium Spender
+1194,Leticia Snyder,Pittsford,NY,1,1692.5370000000005,1692.5370000000005,Medium Spender
+456,Serina Hensley,Jamaica,NY,1,1690.6635,1690.6635,Medium Spender
+392,Cyndi Bush,Elmhurst,NY,1,1681.9740000000002,1681.9740000000002,Medium Spender
+1393,Vivian Deleon,Jamaica,NY,1,1681.4809999999998,1681.4809999999998,Medium Spender
+678,Myron Johns,Whitestone,NY,1,1673.9906999999998,1673.9906999999998,Medium Spender
+816,Marshall Johnson,Vista,CA,1,1669.9825,1669.9825,Medium Spender
+318,Eliz Whitney,Fullerton,CA,1,1662.0539,1662.0539,Medium Spender
+590,Cyndi Dyer,Baldwin,NY,1,1655.0719,1655.0719,Medium Spender
+731,Hilary Savage,Oxnard,CA,1,1652.981,1652.981,Medium Spender
+1405,Thanh Figueroa,Mount Vernon,NY,1,1649.9725,1649.9725,Medium Spender
+591,Danilo Holmes,Hicksville,NY,1,1646.3814,1646.3814,Medium Spender
+740,Gwenn Melton,Centereach,NY,1,1644.5165,1644.5165,Medium Spender
+485,Catherine Miles,East Elmhurst,NY,1,1635.5468,1635.5468,Medium Spender
+1338,Inez Snider,Ronkonkoma,NY,1,1626.7825000000005,1626.7825000000005,Medium Spender
+267,Angelina Lloyd,Apple Valley,CA,1,1625.963,1625.963,Medium Spender
+371,Loni Duncan,Rosedale,NY,1,1619.991,1619.991,Medium Spender
+1076,Sherise Mercer,Vista,CA,1,1619.991,1619.991,Medium Spender
+1309,Kimberli Cline,Centereach,NY,1,1619.991,1619.991,Medium Spender
+419,Krystin Marshall,Poughkeepsie,NY,1,1613.3947,1613.3947,Medium Spender
+911,Nikita Roy,Pittsford,NY,1,1611.0747,1611.0747,Medium Spender
+433,Holly Nieves,Longview,TX,1,1601.3717,1601.3717,Medium Spender
+291,Boyce Burks,Sunnyside,NY,1,1600.0929999999998,1600.0929999999998,Medium Spender
+445,Earline Ballard,Mount Vernon,NY,1,1599.9840000000002,1599.9840000000002,Medium Spender
+1327,Consuela Romero,Monroe,NY,1,1599.9840000000002,1599.9840000000002,Medium Spender
+1109,Gussie Harding,Deer Park,NY,1,1595.6657,1595.6657,Medium Spender
+1339,Neida King,Oceanside,NY,1,1590.8534,1590.8534,Medium Spender
+698,Charleen Joyner,Corona,NY,1,1585.156,1585.156,Medium Spender
+1243,Heide Reed,Floral Park,NY,1,1582.1634,1582.1634,Medium Spender
+264,Mariela Huffman,Garden City,NY,1,1577.0717,1577.0717,Medium Spender
+1106,Jerri Henry,Spring Valley,NY,1,1576.7820000000002,1576.7820000000002,Medium Spender
+49,Caroll Hays,Fairport,NY,2,1571.1760000000002,785.5880000000001,Medium Spender
+1155,Verdell Joyner,Far Rockaway,NY,1,1567.4715,1567.4715,Medium Spender
+219,Darcie Morgan,Oceanside,NY,1,1567.173,1567.173,Medium Spender
+707,Terese Briggs,Woodside,NY,1,1559.9725,1559.9725,Medium Spender
+570,Marissa Summers,Saint Albans,NY,1,1556.7828,1556.7828,Medium Spender
+621,Basil Ballard,San Lorenzo,CA,1,1553.965,1553.965,Medium Spender
+841,Manie Maxwell,Ronkonkoma,NY,1,1546.384,1546.384,Medium Spender
+317,Christia Wilkins,Woodside,NY,1,1543.7628,1543.7628,Medium Spender
+1256,Nubia Anderson,Ronkonkoma,NY,1,1538.964,1538.964,Medium Spender
+369,Mary Singleton,Woodside,NY,1,1536.1215,1536.1215,Medium Spender
+1434,Elana Miles,Liverpool,NY,1,1530.963,1530.963,Medium Spender
+763,Han Schneider,Elmhurst,NY,1,1525.1627999999998,1525.1627999999998,Medium Spender
+876,Onita Macdonald,Glen Cove,NY,1,1525.1539,1525.1539,Medium Spender
+523,Joshua Robertson,Patchogue,NY,1,1519.981,1519.981,Medium Spender
+483,Gayla Sims,Lindenhurst,NY,1,1519.2,1519.2,Medium Spender
+927,Guillermo Hart,New York,NY,1,1516.34,1516.34,Medium Spender
+589,Jeffry Church,Pleasanton,CA,1,1512.891,1512.891,Medium Spender
+1305,Dalia Carson,Rochester,NY,1,1509.4727000000005,1509.4727000000005,Medium Spender
+635,Myrtie James,Merrick,NY,1,1502.9630000000002,1502.9630000000002,Medium Spender
+942,Davis Long,Lancaster,NY,1,1499.9719,1499.9719,Medium Spender
+516,Rosa Kinney,Brooklyn,NY,1,1499.966,1499.966,Medium Spender
+1389,Ulrike Chan,Port Chester,NY,1,1499.382,1499.382,Medium Spender
+494,Pearl Fox,Uniondale,NY,1,1494.9554,1494.9554,Medium Spender
+424,Charleen Hurst,Utica,NY,1,1490.2907,1490.2907,Medium Spender
+835,Roseanne Maynard,Euless,TX,1,1485.4635,1485.4635,Medium Spender
+211,Gilma Dejesus,Scarsdale,NY,1,1472.481,1472.481,Medium Spender
+67,Tommie Melton,Sacramento,CA,2,1472.4724999999999,736.2362499999999,Medium Spender
+290,Barry Buckner,Centereach,NY,1,1467.9554,1467.9554,Medium Spender
+930,Delana Wagner,Clifton Park,NY,1,1464.2552,1464.2552,Medium Spender
+438,Katharine Herrera,Queensbury,NY,1,1455.974,1455.974,Medium Spender
+487,Grace Madden,San Pablo,CA,1,1450.023,1450.023,Medium Spender
+1222,Geraldine O'donnell,Flushing,NY,1,1441.165,1441.165,Medium Spender
+253,Maurice Norton,Atwater,CA,1,1439.9840000000002,1439.9840000000002,Medium Spender
+699,Zella Fernandez,Rockville Centre,NY,1,1422.963,1422.963,Medium Spender
+596,Emelda Dickerson,Hamburg,NY,1,1422.4825,1422.4825,Medium Spender
+980,Carter Booth,Port Chester,NY,1,1416.573,1416.573,Medium Spender
+1420,Kelsey Noble,Mount Vernon,NY,1,1407.552,1407.552,Medium Spender
+101,Nichelle Howell,Scarsdale,NY,1,1405.962,1405.962,Medium Spender
+674,Ira Moore,Saratoga Springs,NY,1,1402.774,1402.774,Medium Spender
+1444,Ivette Estes,Canandaigua,NY,1,1399.976,1399.976,Medium Spender
+822,Kristy Watkins,Howard Beach,NY,1,1396.4905,1396.4905,Medium Spender
+158,Alane Kennedy,Spring Valley,NY,1,1395.1624,1395.1624,Medium Spender
+968,Jonna Brown,Mahopac,NY,1,1394.9906999999998,1394.9906999999998,Medium Spender
+476,Christopher Richardson,Santa Cruz,CA,1,1394.9814,1394.9814,Medium Spender
+1383,Desire Mcgowan,Bakersfield,CA,1,1392.273,1392.273,Medium Spender
+1253,Susannah Fields,Far Rockaway,NY,1,1390.4734,1390.4734,Medium Spender
+720,Devin Shaffer,Rochester,NY,1,1389.772,1389.772,Medium Spender
+465,Birdie Kramer,Troy,NY,1,1382.972,1382.972,Medium Spender
+397,Jeannie Wilcox,Franklin Square,NY,1,1378.182,1378.182,Medium Spender
+1204,Leslie Higgins,Saratoga Springs,NY,1,1372.4719,1372.4719,Medium Spender
+1017,Philip Bryan,Oakland,CA,1,1368.0717,1368.0717,Medium Spender
+387,Kaila Walters,Elmhurst,NY,1,1367.984,1367.984,Medium Spender
+881,Chloe Patel,Santa Monica,CA,1,1367.0907,1367.0907,Medium Spender
+634,Taylor Cole,Carmel,NY,1,1364.944,1364.944,Medium Spender
+1356,Inger Jennings,Patchogue,NY,1,1359.976,1359.976,Medium Spender
+647,Janelle Maldonado,Richmond Hill,NY,1,1353.748,1353.748,Medium Spender
+843,Tessie Farmer,Plattsburgh,NY,1,1351.7224,1351.7224,Medium Spender
+741,Laci Castro,Saint Albans,NY,1,1349.982,1349.982,Medium Spender
+874,Mila Good,Plattsburgh,NY,1,1344.792,1344.792,Medium Spender
+414,Romaine Haley,Ithaca,NY,1,1337.0817,1337.0817,Medium Spender
+399,Bart Hess,Kingston,NY,1,1331.9734,1331.9734,Medium Spender
+921,Evelin Vargas,Webster,NY,1,1328.6529,1328.6529,Medium Spender
+868,Domingo Casey,San Jose,CA,1,1311.2907,1311.2907,Medium Spender
+750,Romaine Salazar,Monsey,NY,1,1307.6225,1307.6225,Medium Spender
+458,Everett Vega,Holbrook,NY,1,1304.975,1304.975,Medium Spender
+915,Beryl Bennett,Sacramento,CA,1,1301.4715,1301.4715,Medium Spender
+1345,Arie Hunter,Flushing,NY,1,1287.5737,1287.5737,Medium Spender
+1293,Sally Kinney,Floral Park,NY,1,1285.9717,1285.9717,Medium Spender
+949,Venessa Frost,Scarsdale,NY,1,1279.0627,1279.0627,Medium Spender
+511,Julienne Moody,Fort Worth,TX,1,1277.966,1277.966,Medium Spender
+879,Ethelyn Ray,Garden City,NY,1,1276.975,1276.975,Medium Spender
+664,Augustus Schmidt,Corona,NY,1,1272.784,1272.784,Medium Spender
+630,Zulema Browning,Amsterdam,NY,1,1265.9724,1265.9724,Medium Spender
+928,Joann Barber,Santa Monica,CA,1,1264.9827,1264.9827,Medium Spender
+148,Julee Woodard,Richmond Hill,NY,1,1260.973,1260.973,Medium Spender
+769,Agatha Melton,Springfield Gardens,NY,1,1258.972,1258.972,Medium Spender
+1053,Parthenia Figueroa,Mahopac,NY,1,1257.972,1257.972,Medium Spender
+1143,Sommer Hopkins,Tonawanda,NY,1,1256.091,1256.091,Medium Spender
+183,Jeniffer Ratliff,Floral Park,NY,1,1254.9405,1254.9405,Medium Spender
+623,Cayla Johnson,Coram,NY,1,1253.981,1253.981,Medium Spender
+311,Charise Burt,Fresno,CA,1,1250.8637,1250.8637,Medium Spender
+1110,Shirely Cantrell,West Hempstead,NY,1,1249.972,1249.972,Medium Spender
+405,Greta Page,Commack,NY,1,1245.973,1245.973,Medium Spender
+1294,Edith Davenport,Ontario,CA,1,1243.7847000000002,1243.7847000000002,Medium Spender
+1361,Destiny Goodman,Westbury,NY,1,1240.1840000000002,1240.1840000000002,Medium Spender
+305,Hope Cotton,Redondo Beach,CA,1,1238.5660000000005,1238.5660000000005,Medium Spender
+1412,Adrien Hunter,Rego Park,NY,1,1234.9715,1234.9715,Medium Spender
+573,Rubye Mccall,Troy,NY,1,1229.092,1229.092,Medium Spender
+1186,Kiesha Bond,San Carlos,CA,1,1228.5207,1228.5207,Medium Spender
+812,Martha Burgess,Woodhaven,NY,1,1227.5814,1227.5814,Medium Spender
+902,Elease Dejesus,Oswego,NY,1,1217.264,1217.264,Medium Spender
+1170,Mechelle Chan,Richmond Hill,NY,1,1210.2714999999998,1210.2714999999998,Medium Spender
+1013,Alma Peck,Corona,NY,1,1209.4747,1209.4747,Medium Spender
+294,Clementina Sargent,Rome,NY,1,1208.4825,1208.4825,Medium Spender
+504,Tiana Henderson,Franklin Square,NY,1,1200.542,1200.542,Medium Spender
+341,Delana Scott,Mount Vernon,NY,1,1199.9840000000002,1199.9840000000002,Medium Spender
+1387,Phylicia Stout,Canandaigua,NY,1,1199.9840000000002,1199.9840000000002,Medium Spender
+974,Marcell Barrett,Astoria,NY,1,1197.0725,1197.0725,Medium Spender
+522,Tammera Fischer,Oakland,CA,1,1196.9665,1196.9665,Medium Spender
+784,Debbra Jacobson,Ballston Spa,NY,1,1194.2817,1194.2817,Medium Spender
+791,Yun Nelson,Ballston Spa,NY,1,1189.9825,1189.9825,Medium Spender
+772,Latricia Lindsey,Yorktown Heights,NY,1,1174.5654,1174.5654,Medium Spender
+283,Jaimee Day,Poughkeepsie,NY,1,1172.9724,1172.9724,Medium Spender
+321,Chere Hardin,Brooklyn,NY,1,1165.081,1165.081,Medium Spender
+406,Kerrie O'neill,Shirley,NY,1,1139.981,1139.981,Medium Spender
+398,Suellen Mercado,Sunnyside,NY,1,1139.981,1139.981,Medium Spender
+475,Alec Peck,Victoria,TX,1,1139.981,1139.981,Medium Spender
+164,Tomika Larson,Woodside,NY,1,1139.981,1139.981,Medium Spender
+992,Chere Alston,Patchogue,NY,1,1139.962,1139.962,Medium Spender
+209,Jutta Everett,Selden,NY,1,1127.992,1127.992,Medium Spender
+1073,Leeanne Cross,Bayside,NY,1,1115.9814,1115.9814,Medium Spender
+1241,Nathaniel Davidson,Rome,NY,1,1115.9814,1115.9814,Medium Spender
+244,Jessika Bray,San Pablo,CA,1,1113.2655,1113.2655,Medium Spender
+1035,Tangela Hurley,Campbell,CA,1,1104.4745,1104.4745,Medium Spender
+248,Cecelia Gill,Mcallen,TX,1,1101.683,1101.683,Medium Spender
+1292,Lakenya Oliver,San Lorenzo,CA,1,1099.4815,1099.4815,Medium Spender
+265,Mellisa Farley,Central Islip,NY,1,1096.1817,1096.1817,Medium Spender
+656,Romana Barnes,Floral Park,NY,1,1094.975,1094.975,Medium Spender
+947,Angele Castro,Palos Verdes Peninsula,CA,1,1082.9715,1082.9715,Medium Spender
+1061,Alanna Barry,Euless,TX,1,1076.9307,1076.9307,Medium Spender
+1074,Lanelle Guerra,Floral Park,NY,1,1072.1624,1072.1624,Medium Spender
+978,Diana Reyes,Bronx,NY,1,1064.682,1064.682,Medium Spender
+652,Tilda Melton,Troy,NY,1,1063.8921,1063.8921,Medium Spender
+956,Venus Hewitt,Farmingdale,NY,1,1060.553,1060.553,Medium Spender
+1064,Patsy Russo,Rowlett,TX,1,1060.1721,1060.1721,Medium Spender
+1116,Patria Harper,Astoria,NY,1,1055.9840000000002,1055.9840000000002,Medium Spender
+1318,Tisha Petty,San Antonio,TX,1,1052.972,1052.972,Medium Spender
+588,Cherelle Key,Valley Stream,NY,1,1052.9630000000002,1052.9630000000002,Medium Spender
+477,Arminda Weber,Bellmore,NY,1,1044.981,1044.981,Medium Spender
+1011,Sebrina Gross,Garland,TX,1,1042.1724,1042.1724,Medium Spender
+1044,Zenia Bruce,Rosedale,NY,1,1041.5814,1041.5814,Medium Spender
+869,Rodrigo Durham,Richmond Hill,NY,1,1037.3715,1037.3715,Medium Spender
+849,Phyllis Hill,Syosset,NY,1,1034.2827,1034.2827,Medium Spender
+286,Virgil Frost,Levittown,NY,1,1026.7014,1026.7014,Medium Spender
+300,Rayford Simon,Mountain View,CA,1,1023.984,1023.984,Medium Spender
+981,Christel Cardenas,Long Beach,NY,1,1022.9814,1022.9814,Medium Spender
+753,Mandi Gibbs,East Elmhurst,NY,1,1022.9814,1022.9814,Medium Spender
+1099,Jewell Reyes,Jackson Heights,NY,1,1019.963,1019.963,Medium Spender
+719,Nicki Fry,Endicott,NY,1,1006.981,1006.981,Medium Spender
+695,Christoper Gould,Shirley,NY,1,1006.981,1006.981,Medium Spender
+284,Susann Bass,Commack,NY,1,1001.6117,1001.6117,Medium Spender
+1139,Gabriella Jones,Mount Vernon,NY,1,999.4825,999.4825,Medium Spender
+1377,Johana Jacobson,Rochester,NY,1,997.1724,997.1724,Medium Spender
+617,Jenna Saunders,Yorktown Heights,NY,1,993.2214,993.2214,Medium Spender
+851,Arlena Buckner,New Hyde Park,NY,1,992.965,992.965,Medium Spender
+1364,Grisel Maynard,Ballston Spa,NY,1,989.991,989.991,Medium Spender
+1366,Trena Rogers,Campbell,CA,1,989.982,989.982,Medium Spender
+1221,Joy Underwood,Apple Valley,CA,1,989.982,989.982,Medium Spender
+852,Lezlie Thompson,Freeport,NY,1,989.982,989.982,Medium Spender
+766,Lecia Hancock,Schenectady,NY,1,989.982,989.982,Medium Spender
+830,Edmund Gaines,Copperas Cove,TX,1,989.982,989.982,Medium Spender
+704,Morton Barron,Bakersfield,CA,1,988.4817,988.4817,Medium Spender
+468,Jeanett Herman,Lindenhurst,NY,1,962.973,962.973,Medium Spender
+585,Chasidy Webster,Rocklin,CA,1,959.984,959.984,Medium Spender
+733,Doreatha Ford,Huntington,NY,1,959.984,959.984,Medium Spender
+1288,Allie Conley,Lawndale,CA,1,959.984,959.984,Medium Spender
+743,Tania Swanson,Longview,TX,1,954.9825,954.9825,Medium Spender
+561,Kandace Hughes,San Lorenzo,CA,1,953.982,953.982,Medium Spender
+325,Berna Moore,Bronx,NY,1,949.9905,949.9905,Medium Spender
+373,Mariette Trevino,Utica,NY,1,949.981,949.981,Medium Spender
+889,Lucilla Williams,San Carlos,CA,1,949.1727,949.1727,Medium Spender
+572,Wm Pope,Auburn,NY,1,930.981,930.981,Medium Spender
+785,Kandis Mills,Hamburg,NY,1,929.9814,929.9814,Medium Spender
+1025,Daphine Willis,Farmingdale,NY,1,927.9840000000002,927.9840000000002,Medium Spender
+926,Katina Mcintosh,Bakersfield,CA,1,926.091,926.091,Medium Spender
+1255,Ben Stone,Ithaca,NY,1,923.0727,923.0727,Medium Spender
+193,Ayanna Rhodes,Hicksville,NY,1,914.967,914.967,Medium Spender
+957,Stephen Vega,Anaheim,CA,1,912.273,912.273,Medium Spender
+775,Kermit Hyde,Patchogue,NY,1,908.076,908.076,Medium Spender
+1008,Berneice Pollard,Forney,TX,1,892.981,892.981,Medium Spender
+1098,Treasa Dickerson,Rockville Centre,NY,1,889.5840000000001,889.5840000000001,Medium Spender
+381,Kristen Alvarez,Bronx,NY,1,888.2814000000001,888.2814000000001,Medium Spender
+271,Katheleen Marks,Longview,TX,1,879.984,879.984,Medium Spender
+683,Amparo Burks,Merrick,NY,1,879.984,879.984,Medium Spender
+389,Leif Short,San Angelo,TX,1,877.9812,877.9812,Medium Spender
+422,Valery Saunders,Victoria,TX,1,872.0820000000001,872.0820000000001,Medium Spender
+382,Collin Webster,Howard Beach,NY,1,861.0117,861.0117,Medium Spender
+1325,Magdalena Sherman,Oswego,NY,1,854.191,854.191,Medium Spender
+659,Antonetta Rocha,Port Chester,NY,1,853.0999999999999,853.0999999999999,Medium Spender
+792,Edgar Horn,West Babylon,NY,1,847.984,847.984,Medium Spender
+829,Marcy Rodriguez,Lockport,NY,1,845.9820000000001,845.9820000000001,Medium Spender
+884,Willian Hardin,Oswego,NY,1,845.9820000000001,845.9820000000001,Medium Spender
+528,Angele Schroeder,New City,NY,1,845.9820000000001,845.9820000000001,Medium Spender
+633,Kiara Deleon,Anaheim,CA,1,845.182,845.182,Medium Spender
+604,Kylee Dickson,Amityville,NY,1,837.9827,837.9827,Medium Spender
+847,Lizette Ellison,Port Washington,NY,1,836.9814,836.9814,Medium Spender
+1094,Keitha Black,Lindenhurst,NY,1,824.9815,824.9815,Medium Spender
+229,Molly Langley,Holbrook,NY,1,814.6707,814.6707,Medium Spender
+729,Hue Dalton,Apple Valley,CA,1,799.9920000000001,799.9920000000001,Medium Spender
+1402,Sandee Alvarado,Depew,NY,1,799.9920000000001,799.9920000000001,Medium Spender
+1168,Almeta Benjamin,Sunnyside,NY,1,799.9920000000001,799.9920000000001,Medium Spender
+602,Delaine Estes,Amarillo,TX,1,799.984,799.984,Medium Spender
+1157,Anton Barton,Buffalo,NY,1,797.9399999999999,797.9399999999999,Medium Spender
+1337,Bernetta Summers,Longview,TX,1,773.9817,773.9817,Medium Spender
+642,Yang Roth,Webster,NY,1,772.2,772.2,Medium Spender
+1079,Cindi Ellis,Floral Park,NY,1,758.9827,758.9827,Medium Spender
+377,Klara Mosley,Port Chester,NY,1,755.972,755.972,Medium Spender
+336,Trisha Johnson,Lancaster,NY,1,754.5812,754.5812,Medium Spender
+1092,Lavinia Cotton,East Northport,NY,1,753.5840000000001,753.5840000000001,Medium Spender
+368,Alysha Powers,Forest Hills,NY,1,751.984,751.984,Medium Spender
+166,Lena Mills,Woodhaven,NY,1,751.984,751.984,Medium Spender
+154,Jenise Preston,Helotes,TX,1,751.984,751.984,Medium Spender
+846,Sylvester Chan,Rocklin,CA,1,728.9730000000001,728.9730000000001,Medium Spender
+697,Alane Mccarty,San Diego,CA,1,728.973,728.973,Medium Spender
+409,Jerome Bolton,Carmel,NY,1,728.973,728.973,Medium Spender
+114,Thalia Horne,Amityville,NY,1,727.984,727.984,Medium Spender
+137,Shonta Mercer,Massapequa,NY,1,723.8905,723.8905,Medium Spender
+249,Magda Eaton,Ossining,NY,1,723.8905,723.8905,Medium Spender
+455,Sherita Cherry,Liverpool,NY,1,719.984,719.984,Medium Spender
+1077,Heather Perry,Sunnyside,NY,1,718.4000000000001,718.4000000000001,Medium Spender
+901,Lonna Franks,Ontario,CA,1,712.4905,712.4905,Medium Spender
+501,Tony Hicks,Anaheim,CA,1,712.4905,712.4905,Medium Spender
+1277,Piedad Irwin,Coram,NY,1,706.7814,706.7814,Medium Spender
+1036,Randee Lester,Centereach,NY,1,700.792,700.792,Medium Spender
+508,Vance Taylor,Lancaster,NY,1,697.4907,697.4907,Medium Spender
+842,Giselle Robles,San Angelo,TX,1,692.0817,692.0817,Medium Spender
+924,Lea Irwin,New Windsor,NY,1,683.0747,683.0747,Medium Spender
+943,Lynn Mcmahon,Scarsdale,NY,1,683.0747,683.0747,Medium Spender
+228,Whitney Estes,Brentwood,NY,1,674.991,674.991,Medium Spender
+1428,Carola Johns,Santa Cruz,CA,1,674.991,674.991,Medium Spender
+654,Eun Harris,San Diego,CA,1,660.5905,660.5905,Medium Spender
+891,Ashlie Parrish,Monsey,NY,1,655.984,655.984,Medium Spender
+655,Marylyn Browning,Scarsdale,NY,1,655.1907,655.1907,Medium Spender
+551,Jenine Crane,Fort Worth,TX,1,642.5419999999999,642.5419999999999,Medium Spender
+821,Cassidy Clark,Astoria,NY,1,633.6245,633.6245,Medium Spender
+302,Hayden Cross,Apple Valley,CA,1,631.6747,631.6747,Medium Spender
+1270,Ciera Webb,Orchard Park,NY,1,629.9820000000001,629.9820000000001,Medium Spender
+1369,Starr Schneider,Shirley,NY,1,620.0920000000001,620.0920000000001,Medium Spender
+285,Leola Gould,Astoria,NY,1,613.7907,613.7907,Medium Spender
+897,Bettyann Acosta,Lancaster,NY,1,611.9820000000001,611.9820000000001,Medium Spender
+1239,Tara Maynard,Lindenhurst,NY,1,601.5812,601.5812,Medium Spender
+423,Johna Powers,Deer Park,NY,1,599.9920000000001,599.9920000000001,Medium Spender
+418,Georgeanna Webster,Oxnard,CA,1,593.991,593.991,Medium Spender
+671,Jennette Baker,Banning,CA,1,583.9760000000001,583.9760000000001,Medium Spender
+493,Lise Alvarado,Hamburg,NY,1,576.7917,576.7917,Medium Spender
+471,Burma Summers,Freeport,NY,1,569.9905,569.9905,Medium Spender
+1357,Karren Lamb,Fresno,CA,1,569.981,569.981,Medium Spender
+549,Elmo Arnold,Long Beach,NY,1,557.9907,557.9907,Medium Spender
+918,Kristel Bullock,Smithtown,NY,1,557.9907,557.9907,Medium Spender
+658,Nicki Larson,Monsey,NY,1,557.9814,557.9814,Medium Spender
+1417,Jasper Castro,Forney,TX,1,557.9814,557.9814,Medium Spender
+1320,Obdulia Barber,Newburgh,NY,1,543.984,543.984,Medium Spender
+786,Wallace Lane,South Richmond Hill,NY,1,539.991,539.991,Medium Spender
+1176,Sheree Blanchard,Queensbury,NY,1,531.981,531.981,Medium Spender
+532,Mia Delgado,Coachella,CA,1,527.984,527.984,Medium Spender
+1207,Jenell Crosby,Brentwood,NY,1,524.3905,524.3905,Medium Spender
+370,Jina Cooper,Howard Beach,NY,1,521.9817,521.9817,Medium Spender
+404,Augustus Steele,Ballston Spa,NY,1,519.984,519.984,Medium Spender
+448,Janella Bright,Rochester,NY,1,513.3507,513.3507,Medium Spender
+676,Gayle Wilkinson,Lindenhurst,NY,1,512.981,512.981,Medium Spender
+622,Gabriel Pitts,Clifton Park,NY,1,512.981,512.981,Medium Spender
+1228,Zulema Clemons,Oakland,CA,1,512.981,512.981,Medium Spender
+1146,Charlsie Carson,Saint Albans,NY,1,512.981,512.981,Medium Spender
+684,Jenny Bell,Niagara Falls,NY,1,511.4907,511.4907,Medium Spender
+1289,Shanelle Anderson,Bethpage,NY,1,507.2905,507.2905,Medium Spender
+346,Jacalyn Barnett,Maspeth,NY,1,502.1907,502.1907,Medium Spender
+304,Jayme Zamora,Springfield Gardens,NY,1,502.1814,502.1814,Medium Spender
+608,Taisha Vang,Shirley,NY,1,502.1814,502.1814,Medium Spender
+613,Margene Eaton,Wantagh,NY,1,502.1814,502.1814,Medium Spender
+964,Brent Calderon,Corpus Christi,TX,1,502.1814,502.1814,Medium Spender
+1130,Benny Bender,Elmont,NY,1,502.1814,502.1814,Medium Spender
+1297,Vanessa West,New Rochelle,NY,1,502.1814,502.1814,Medium Spender
+1286,Dione Pratt,Pleasanton,CA,1,494.991,494.991,Low Spender
+996,Serafina Clemons,Shirley,NY,1,494.991,494.991,Low Spender
+1050,Rozella Fitzgerald,Shirley,NY,1,480.591,480.591,Low Spender
+721,Erlinda Osborne,West Islip,NY,1,479.992,479.992,Low Spender
+925,Bryce Monroe,Kingston,NY,1,474.9905,474.9905,Low Spender
+1065,Desiree Branch,San Lorenzo,CA,1,466.8414,466.8414,Low Spender
+767,Twana Arnold,Anaheim,CA,1,464.9907,464.9907,Low Spender
+378,Rosalba O'neal,Mount Vernon,NY,1,464.9907,464.9907,Low Spender
+454,Terese Palmer,Bay Shore,NY,1,464.9907,464.9907,Low Spender
+513,Whitney Cash,Hamburg,NY,1,458.98300000000006,458.98300000000006,Low Spender
+860,Loni Mullen,South Ozone Park,NY,1,451.782,451.782,Low Spender
+1022,Hye Mercer,Mahopac,NY,1,440.991,440.991,Low Spender
+258,Maribel William,Torrance,CA,1,437.0907,437.0907,Low Spender
+558,Carroll Kelly,Monroe,NY,1,431.984,431.984,Low Spender
+1095,Corene Swanson,Rego Park,NY,1,426.55,426.55,Low Spender
+130,Wes Stanton,Troy,NY,1,423.992,423.992,Low Spender
+592,Joni Lee,Centereach,NY,1,422.991,422.991,Low Spender
+857,Inga Koch,New Windsor,NY,1,418.4907,418.4907,Low Spender
+388,Aleta Stone,Whitestone,NY,1,418.4907,418.4907,Low Spender
+804,Douglas Richards,Valley Stream,NY,1,417.9905,417.9905,Low Spender
+703,Diana Cobb,Fullerton,CA,1,398.97,398.97,Low Spender
+725,Carola Mcpherson,Rego Park,NY,1,396.1405,396.1405,Low Spender
+969,Jennell Solis,Rochester,NY,1,391.992,391.992,Low Spender
+200,Ashely Holmes,Farmingdale,NY,1,391.992,391.992,Low Spender
+746,Eldridge Greer,Central Islip,NY,1,386.1,386.1,Low Spender
+685,Laverne Craft,Forest Hills,NY,1,386.1,386.1,Low Spender
+586,Ulysses Gaines,Monsey,NY,1,386.1,386.1,Low Spender
+601,Leland Mcdowell,Encino,CA,1,377.982,377.982,Low Spender
+993,Giovanna Jefferson,Ridgecrest,CA,1,377.982,377.982,Low Spender
+452,Cassandra Nichols,Hicksville,NY,1,377.982,377.982,Low Spender
+457,Jeni Farley,Richmond Hill,NY,1,377.982,377.982,Low Spender
+446,Nathanael Bradley,Amsterdam,NY,1,377.982,377.982,Low Spender
+141,Ramiro Byers,Saint Albans,NY,1,376.792,376.792,Low Spender
+693,Merlin Foreman,Hempstead,NY,1,375.992,375.992,Low Spender
+827,George Pickett,Sunnyside,NY,1,375.992,375.992,Low Spender
+451,Jennette Wooten,Rowlett,TX,1,359.20000000000005,359.20000000000005,Low Spender
+557,Erlene Cook,Mount Vernon,NY,1,359.20000000000005,359.20000000000005,Low Spender
+1427,Mikel Wilkerson,Atwater,CA,1,351.992,351.992,Low Spender
+805,Phillis Fowler,Clifton Park,NY,1,335.98400000000004,335.98400000000004,Low Spender
+776,Angelique Merrill,South El Monte,CA,1,333.59200000000004,333.59200000000004,Low Spender
+1317,Glady Wells,Syosset,NY,1,325.4907,325.4907,Low Spender
+1009,Deangelo Cooley,Rosedale,NY,1,314.99100000000004,314.99100000000004,Low Spender
+482,Narcisa Knapp,Amarillo,TX,1,279.992,279.992,Low Spender
+1283,Mica Barry,Hopewell Junction,NY,1,279.992,279.992,Low Spender
+1004,Jerald Blackwell,East Elmhurst,NY,1,278.9907,278.9907,Low Spender
+875,Tanesha Sawyer,Rosedale,NY,1,269.99100000000004,269.99100000000004,Low Spender
+539,Jamika Acevedo,Ozone Park,NY,1,269.99100000000004,269.99100000000004,Low Spender
+391,Vernita Ball,Los Banos,CA,1,269.99100000000004,269.99100000000004,Low Spender
+342,Cassondra Pruitt,Merrick,NY,1,269.99100000000004,269.99100000000004,Low Spender
+1336,Joe Melton,New Windsor,NY,1,269.99100000000004,269.99100000000004,Low Spender
+401,Shaunda Barnett,Longview,TX,1,256.4905,256.4905,Low Spender
+144,Hans Price,Port Chester,NY,1,256.4905,256.4905,Low Spender
+714,Senaida Thompson,Bronx,NY,1,256.4905,256.4905,Low Spender
+788,Lilliam Nolan,Copperas Cove,TX,1,242.991,242.991,Low Spender
+677,Launa Hull,Helotes,TX,1,242.991,242.991,Low Spender
+363,Kaci Gallegos,Ballston Spa,NY,1,242.991,242.991,Low Spender
+514,Clarita Curry,Hollis,NY,1,242.991,242.991,Low Spender
+442,Alane Munoz,Yonkers,NY,1,242.991,242.991,Low Spender
+1340,Tona Velasquez,Whitestone,NY,1,242.991,242.991,Low Spender
+1166,Junita Reese,Bay Shore,NY,1,242.991,242.991,Low Spender
+1142,Britteny Schroeder,Pittsford,NY,1,232.4907,232.4907,Low Spender
+347,Kanesha Hudson,Oakland,CA,1,225.891,225.891,Low Spender
+593,Antony Atkinson,Smithtown,NY,1,208.981,208.981,Low Spender
+221,Clementine Mooney,Mcallen,TX,1,199.992,199.992,Low Spender
+1414,Sonja Walls,Queensbury,NY,1,176.6907,176.6907,Low Spender
+177,Carissa Foreman,Maspeth,NY,1,170.991,170.991,Low Spender
+752,Lloyd Miranda,Encino,CA,1,170.991,170.991,Low Spender
+1111,Caroline Jenkins,Richardson,TX,1,170.991,170.991,Low Spender
+718,Luciana Mcgee,Selden,NY,1,167.99200000000002,167.99200000000002,Low Spender
+850,Stephanie Browning,Rowlett,TX,1,104.4905,104.4905,Low Spender

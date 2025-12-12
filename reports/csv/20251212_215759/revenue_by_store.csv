@@ -1,0 +1,4 @@
+store_id,store_name,city,total_orders,total_revenue,avg_order_value
+2,Baldwin Bikes,Baldwin,1093,6101250.540499998,5582.113943732844
+1,Santa Cruz Bikes,Santa Cruz,348,1605823.0365000002,4614.434012931035
+3,Rowlett Bikes,Rowlett,174,1302866.7089000004,7487.739706321841

@@ -1,0 +1,393 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Retail Analysis Report - 20251212_215759</title>
+        <style>
+            body {
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                margin: 0;
+                padding: 20px;
+                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                color: #333;
+            }
+            .container {
+                max-width: 1200px;
+                margin: 0 auto;
+                background: white;
+                padding: 40px;
+                border-radius: 10px;
+                box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            }
+            h1 {
+                color: #667eea;
+                text-align: center;
+                font-size: 2.5em;
+                margin-bottom: 10px;
+            }
+            .subtitle {
+                text-align: center;
+                color: #666;
+                margin-bottom: 30px;
+                font-size: 1.1em;
+            }
+            h2 {
+                color: #764ba2;
+                border-bottom: 3px solid #667eea;
+                padding-bottom: 10px;
+                margin-top: 40px;
+            }
+            .metric-grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+                gap: 20px;
+                margin: 20px 0;
+            }
+            .metric-card {
+                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                color: white;
+                padding: 20px;
+                border-radius: 8px;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            }
+            .metric-value {
+                font-size: 2em;
+                font-weight: bold;
+                margin: 10px 0;
+            }
+            .metric-label {
+                font-size: 0.9em;
+                opacity: 0.9;
+            }
+            table {
+                width: 100%;
+                border-collapse: collapse;
+                margin: 20px 0;
+                box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            }
+            th {
+                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                color: white;
+                padding: 12px;
+                text-align: left;
+            }
+            td {
+                padding: 10px;
+                border-bottom: 1px solid #ddd;
+            }
+            tr:hover {
+                background-color: #f5f5f5;
+            }
+            .chart-container {
+                margin: 30px 0;
+                text-align: center;
+            }
+            .chart-container img {
+                max-width: 100%;
+                height: auto;
+                border-radius: 8px;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            }
+            .footer {
+                text-align: center;
+                margin-top: 50px;
+                padding-top: 20px;
+                border-top: 2px solid #eee;
+                color: #666;
+            }
+            .status-badge {
+                padding: 5px 10px;
+                border-radius: 20px;
+                font-size: 0.85em;
+                font-weight: bold;
+            }
+            .high-spender { background: #4caf50; color: white; }
+            .medium-spender { background: #ff9800; color: white; }
+            .low-spender { background: #f44336; color: white; }
+            .no-orders { background: #9e9e9e; color: white; }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>🏪 Retail Store Analysis Report</h1>
+            <div class="subtitle">
+                Generated on December 12, 2025 at 21:58:07<br>
+                Database: RetailDB | Server: DESKTOP-LF8V7TT
+            </div>
+    
+            <h2>📊 Key Business Metrics</h2>
+            <div class="metric-grid">
+                <div class="metric-card">
+                    <div class="metric-label">Total Revenue</div>
+                    <div class="metric-value">$9,009,940.29</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-label">Total Orders</div>
+                    <div class="metric-value">1,615</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-label">Average Order Value</div>
+                    <div class="metric-value">$5,578.91</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-label">Total Customers</div>
+                    <div class="metric-value">1,445</div>
+                </div>
+            </div>
+        <h2>💰 Sales Analysis</h2>
+            <h3>Top 10 Best-Selling Products</h3>
+            <div class="chart-container">
+                <img src="../visualizations/20251212_215759/1_top_products.png" alt="Top Products">
+            </div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Product Name</th>
+                        <th>Brand</th>
+                        <th>Category</th>
+                        <th>Quantity Sold</th>
+                        <th>Revenue</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+                <tr>
+                    <td>Surly Ice Cream Truck Frameset - 2016</td>
+                    <td>Surly</td>
+                    <td>Mountain Bikes</td>
+                    <td>167</td>
+                    <td>$156,915.56</td>
+                </tr>
+            
+                <tr>
+                    <td>Electra Cruiser 1 (24-Inch) - 2016</td>
+                    <td>Electra</td>
+                    <td>Cruisers Bicycles</td>
+                    <td>157</td>
+                    <td>$86,105.21</td>
+                </tr>
+            
+                <tr>
+                    <td>Electra Townie Original 7D EQ - 2016</td>
+                    <td>Electra</td>
+                    <td>Cruisers Bicycles</td>
+                    <td>156</td>
+                    <td>$82,744.62</td>
+                </tr>
+            
+                <tr>
+                    <td>Electra Girl's Hawaii 1 (20-inch) - 2015/2016</td>
+                    <td>Electra</td>
+                    <td>Children Bicycles</td>
+                    <td>154</td>
+                    <td>$68,631.71</td>
+                </tr>
+            
+                <tr>
+                    <td>Trek Slash 8 27.5 - 2016</td>
+                    <td>Trek</td>
+                    <td>Mountain Bikes</td>
+                    <td>154</td>
+                    <td>$555,558.61</td>
+                </tr>
+            
+                <tr>
+                    <td>Electra Townie Original 21D - 2016</td>
+                    <td>Electra</td>
+                    <td>Cruisers Bicycles</td>
+                    <td>153</td>
+                    <td>$119,331.33</td>
+                </tr>
+            
+                <tr>
+                    <td>Surly Straggler 650b - 2016</td>
+                    <td>Surly</td>
+                    <td>Cyclocross Bicycles</td>
+                    <td>151</td>
+                    <td>$226,765.55</td>
+                </tr>
+            
+                <tr>
+                    <td>Electra Townie Original 7D - 2015/2016</td>
+                    <td>Electra</td>
+                    <td>Comfort Bicycles</td>
+                    <td>148</td>
+                    <td>$66,568.67</td>
+                </tr>
+            
+                <tr>
+                    <td>Surly Straggler - 2016</td>
+                    <td>Surly</td>
+                    <td>Cyclocross Bicycles</td>
+                    <td>147</td>
+                    <td>$203,507.62</td>
+                </tr>
+            
+                <tr>
+                    <td>Trek Conduit+ - 2016</td>
+                    <td>Trek</td>
+                    <td>Electric Bikes</td>
+                    <td>145</td>
+                    <td>$389,248.70</td>
+                </tr>
+            </tbody></table>
+        <div class="chart-container">
+            <img src="../visualizations/20251212_215759/2_revenue_by_store.png" alt="Revenue by Store">
+        </div>
+        <div class="chart-container">
+            <img src="../visualizations/20251212_215759/3_revenue_by_category.png" alt="Revenue by Category">
+        </div>
+        <div class="chart-container">
+            <img src="../visualizations/20251212_215759/4_monthly_sales_trend.png" alt="Monthly Sales Trend">
+        </div>
+        <div class="chart-container">
+            <img src="../visualizations/20251212_215759/7_revenue_by_brand.png" alt="Revenue by Brand">
+        </div>
+    
+        <h2>👥 Staff Performance</h2>
+        <div class="chart-container">
+            <img src="../visualizations/20251212_215759/5_staff_performance.png" alt="Staff Performance">
+        </div>
+    
+            <div class="metric-grid">
+                <div class="metric-card">
+                    <div class="metric-label">Best Performing Staff</div>
+                    <div class="metric-value" style="font-size: 1.5em;">Venita Daniel</div>
+                    <div class="metric-label">Baldwin Bikes</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-label">Total Sales</div>
+                    <div class="metric-value">$3,275,797.13</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-label">Orders Handled</div>
+                    <div class="metric-value">540</div>
+                </div>
+            </div>
+        
+        <h2>👤 Customer Insights</h2>
+        <div class="chart-container">
+            <img src="../visualizations/20251212_215759/6_customer_segmentation.png" alt="Customer Segmentation">
+        </div>
+    
+            <div class="metric-card" style="margin: 20px 0;">
+                <div class="metric-label">⚠️ Customers with No Orders</div>
+                <div class="metric-value">0</div>
+                <div class="metric-label">Potential for re-engagement campaigns</div>
+            </div>
+        
+        <h2>📦 Inventory Analysis</h2>
+        <div class="chart-container">
+            <img src="../visualizations/20251212_215759/9_store_inventory.png" alt="Store Inventory">
+        </div>
+    
+            <h3>⚠️ Low Stock Alert (10 products)</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Product Name</th>
+                        <th>Brand</th>
+                        <th>Category</th>
+                        <th>Stock Level</th>
+                        <th>List Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+                <tr style="background-color: #fff3cd;">
+                    <td>Electra Townie Original 21D EQ Ladies' - 2018</td>
+                    <td>Electra</td>
+                    <td>Comfort Bicycles</td>
+                    <td>0</td>
+                    <td>$679.99</td>
+                </tr>
+            
+                <tr style="background-color: #fff3cd;">
+                    <td>Electra Townie Original 21D Ladies' - 2018</td>
+                    <td>Electra</td>
+                    <td>Comfort Bicycles</td>
+                    <td>0</td>
+                    <td>$559.99</td>
+                </tr>
+            
+                <tr style="background-color: #fff3cd;">
+                    <td>Trek Checkpoint ALR 4 Women's - 2019</td>
+                    <td>Trek</td>
+                    <td>Road Bikes</td>
+                    <td>0</td>
+                    <td>$1,699.99</td>
+                </tr>
+            
+                <tr style="background-color: #fff3cd;">
+                    <td>Trek Checkpoint ALR 5 - 2019</td>
+                    <td>Trek</td>
+                    <td>Road Bikes</td>
+                    <td>0</td>
+                    <td>$1,999.99</td>
+                </tr>
+            
+                <tr style="background-color: #fff3cd;">
+                    <td>Trek Checkpoint ALR 5 Women's - 2019</td>
+                    <td>Trek</td>
+                    <td>Road Bikes</td>
+                    <td>0</td>
+                    <td>$1,999.99</td>
+                </tr>
+            
+                <tr style="background-color: #fff3cd;">
+                    <td>Trek Checkpoint SL 5 Women's - 2019</td>
+                    <td>Trek</td>
+                    <td>Road Bikes</td>
+                    <td>0</td>
+                    <td>$2,799.99</td>
+                </tr>
+            
+                <tr style="background-color: #fff3cd;">
+                    <td>Trek Checkpoint SL 6 - 2019</td>
+                    <td>Trek</td>
+                    <td>Road Bikes</td>
+                    <td>0</td>
+                    <td>$3,799.99</td>
+                </tr>
+            
+                <tr style="background-color: #fff3cd;">
+                    <td>Trek Checkpoint ALR Frameset - 2019</td>
+                    <td>Trek</td>
+                    <td>Road Bikes</td>
+                    <td>0</td>
+                    <td>$3,199.99</td>
+                </tr>
+            
+                <tr style="background-color: #fff3cd;">
+                    <td>Trek Domane SLR Frameset - 2018</td>
+                    <td>Trek</td>
+                    <td>Road Bikes</td>
+                    <td>5</td>
+                    <td>$3,199.99</td>
+                </tr>
+            
+                <tr style="background-color: #fff3cd;">
+                    <td>Electra Superbolt 1 20" - 2018</td>
+                    <td>Electra</td>
+                    <td>Children Bicycles</td>
+                    <td>9</td>
+                    <td>$319.99</td>
+                </tr>
+            </tbody></table>
+        <h2>📋 Order Status</h2>
+        <div class="chart-container">
+            <img src="../visualizations/20251212_215759/8_order_status_dist.png" alt="Order Status Distribution">
+        </div>
+    
+            <div class="footer">
+                <p><strong>Report Information</strong></p>
+                <p>CSV Files: reports\csv\20251212_215759</p>
+                <p>Visualizations: reports\visualizations\20251212_215759</p>
+                <p>© 2024 Retail Database Analysis System</p>
+            </div>
+        </div>
+    </body>
+    </html>
+    
