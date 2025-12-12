@@ -4,23 +4,23 @@ Purpose: Coordinate the complete data pipeline from check to SQL loading
 Workflow: Check → Transform → Load
 """
 
-import subprocess
 import sys
 import os
 import time
-import json
-import yaml
 from datetime import datetime
+import yaml
+
+# Ensure src module can be imported
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
+from src.extract import data_quality_check
+from src.transform import transform_pipeline
+from src.load import sql_loader
+from src.utils.config_loader import load_config
 
 # ============================================================================
 # CONFIGURATION
 # ============================================================================
-
-# Script paths
-CHECK_SCRIPT = "data_quality_check.py"
-TRANSFORM_SCRIPT = "transform_pipeline.py"
-LOAD_SCRIPT = "sql_loader.py"
-CONFIG_FILE = "pipeline_config.yaml"
 
 # Execution options
 SKIP_CHECK = False          # Set to True to skip quality check
@@ -48,52 +48,43 @@ def print_step_header(step_num, step_name, description):
     print("="*80)
 
 
-def run_script(script_path, step_name):
-    """Run a Python script and capture its output"""
-    print(f"\n▶️  Executing: {script_path}")
+def run_pipeline_step(step_func, step_name):
+    """Run a pipeline step function and capture time"""
+    print(f"\n▶️  Executing: {step_name}")
     print("-" * 80)
     
     start_time = time.time()
     
     try:
-        # Run the script
-        result = subprocess.run(
-            [sys.executable, script_path],
-            capture_output=False,  # Show output in real-time
-            text=True,
-            check=True
-        )
+        # Run the function
+        result = step_func()
         
         elapsed_time = time.time() - start_time
         
+        success = result is not None and result is not False
+        
         print("-" * 80)
-        print(f"✓ {step_name} completed successfully")
+        if success:
+            print(f"✓ {step_name} completed successfully")
+        else:
+            print(f"✗ {step_name} reported failure or invalid result")
+            
         print(f"  Execution time: {elapsed_time:.2f} seconds")
         
-        return True, elapsed_time
+        return success, elapsed_time
     
-    except subprocess.CalledProcessError as e:
+    except Exception as e:
         elapsed_time = time.time() - start_time
         
         print("-" * 80)
-        print(f"✗ {step_name} failed!")
+        print(f"✗ {step_name} failed with exception!")
+        print(f"  Error: {e}")
         print(f"  Execution time: {elapsed_time:.2f} seconds")
-        print(f"  Error code: {e.returncode}")
+        
+        import traceback
+        traceback.print_exc()
         
         return False, elapsed_time
-    
-    except FileNotFoundError:
-        print("-" * 80)
-        print(f"✗ Script not found: {script_path}")
-        return False, 0
-
-
-def check_script_exists(script_path):
-    """Check if a script file exists"""
-    if not os.path.exists(script_path):
-        print(f"✗ ERROR: Script not found: {script_path}")
-        return False
-    return True
 
 
 def prompt_continue(step_name):
@@ -104,17 +95,6 @@ def prompt_continue(step_name):
     print(f"\n{'='*80}")
     response = input(f"Continue to {step_name}? (y/n): ").strip().lower()
     return response in ['y', 'yes']
-
-
-def load_config():
-    """Load pipeline configuration if it exists"""
-    if os.path.exists(CONFIG_FILE):
-        try:
-            with open(CONFIG_FILE, 'r') as f:
-                return yaml.safe_load(f)
-        except:
-            return None
-    return None
 
 
 def print_config_summary(config):
@@ -142,32 +122,6 @@ def main():
     print("\n🚀 Starting Pipeline Orchestration...")
     print(f"   Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     
-    # Check all scripts exist
-    print("\n" + "="*80)
-    print("PRE-FLIGHT CHECK")
-    print("="*80)
-    
-    scripts_ok = True
-    scripts = [
-        (CHECK_SCRIPT, "Data Quality Check"),
-        (TRANSFORM_SCRIPT, "Transformation Pipeline"),
-        (LOAD_SCRIPT, "SQL Server Loader")
-    ]
-    
-    for script_path, script_name in scripts:
-        if check_script_exists(script_path):
-            print(f"  ✓ {script_name:30} : {script_path}")
-        else:
-            scripts_ok = False
-            print(f"  ✗ {script_name:30} : {script_path} NOT FOUND")
-    
-    if not scripts_ok:
-        print("\n✗ Pre-flight check failed!")
-        print("   Please ensure all required scripts are in the current directory")
-        return False
-    
-    print("\n✓ All scripts found")
-    
     # Initialize tracking
     execution_log = {
         'start_time': datetime.now().isoformat(),
@@ -184,7 +138,7 @@ def main():
         print_step_header(1, "DATA QUALITY CHECK", 
                          "Analyzing data quality and generating configuration")
         
-        success, elapsed = run_script(CHECK_SCRIPT, "Data Quality Check")
+        success, elapsed = run_pipeline_step(data_quality_check.main, "Data Quality Check")
         
         execution_log['steps'].append({
             'step': 'check',
@@ -216,7 +170,7 @@ def main():
         print_step_header(2, "DATA TRANSFORMATION",
                          "Cleaning and transforming data based on configuration")
         
-        success, elapsed = run_script(TRANSFORM_SCRIPT, "Data Transformation")
+        success, elapsed = run_pipeline_step(transform_pipeline.main, "Data Transformation")
         
         execution_log['steps'].append({
             'step': 'transform',
@@ -243,7 +197,7 @@ def main():
         print_step_header(3, "SQL SERVER LOADING",
                          "Loading cleaned data into SQL Server database")
         
-        success, elapsed = run_script(LOAD_SCRIPT, "SQL Server Loading")
+        success, elapsed = run_pipeline_step(sql_loader.main, "SQL Server Loading")
         
         execution_log['steps'].append({
             'step': 'load',
@@ -253,9 +207,8 @@ def main():
         
         if not success:
             print("\n❌ SQL loading failed")
-            print("   However, cleaned data is available in cleaned_data/ directory")
             execution_log['success'] = False
-            # Don't return False - partial success
+            # Don't return False - partial success logic as before?
     else:
         print("\n⊗ SKIPPING: SQL Server Loading (disabled in configuration)")
     
@@ -285,29 +238,20 @@ def main():
     
     print(f"  Steps completed: {successful_steps}/{total_steps}")
     
-    if os.path.exists("cleaned_data/"):
-        csv_files = [f for f in os.listdir("cleaned_data/") if f.endswith('.csv')]
-        print(f"  Cleaned files: {len(csv_files)} CSV files in cleaned_data/")
-    
     # Overall status
     print("\n" + "="*80)
     if execution_log['success'] and successful_steps == total_steps:
         print("✅ PIPELINE COMPLETED SUCCESSFULLY!")
         print("="*80)
         print("\n🎉 All steps executed successfully!")
-        print("   ✓ Data quality checked")
-        print("   ✓ Data cleaned and transformed")
-        print("   ✓ Data loaded to SQL Server")
     elif successful_steps > 0:
         print("⚠️  PIPELINE PARTIALLY COMPLETED")
         print("="*80)
         print(f"\n   {successful_steps} of {total_steps} steps completed")
-        print("   Check the logs above for details")
     else:
         print("❌ PIPELINE FAILED")
         print("="*80)
         print("\n   No steps completed successfully")
-        print("   Check the error messages above")
     
     print("="*80)
     print(f"\nExecution completed at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")

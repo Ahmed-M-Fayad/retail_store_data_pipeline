@@ -1,20 +1,25 @@
 """
 SQL SERVER DATA LOADER
 Purpose: Load cleaned data from CSV files into SQL Server
-Reads from: cleaned_data/ directory
+Reads from: data/processed/ directory
 """
 
 import pandas as pd
 from sqlalchemy import create_engine, text
 import os
+import sys
 import warnings
+
+# Ensure src module can be imported
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
+
+from src.utils.config_loader import get_processed_data_dir
+
 warnings.filterwarnings('ignore')
 
 # ============================================================================
 # CONFIGURATION
 # ============================================================================
-
-CLEANED_DATA_PATH = "cleaned_data/"
 
 # SQL Server connection settings
 SQL_SERVER = 'DESKTOP-LF8V7TT'
@@ -43,8 +48,10 @@ def load_cleaned_data():
     print("LOADING CLEANED DATA")
     print("="*80)
     
-    if not os.path.exists(CLEANED_DATA_PATH):
-        print(f"\n✗ ERROR: Directory '{CLEANED_DATA_PATH}' not found!")
+    cleaned_data_path = get_processed_data_dir()
+    
+    if not cleaned_data_path.exists():
+        print(f"\n✗ ERROR: Directory '{cleaned_data_path}' not found!")
         print("   Please run transform_pipeline.py first")
         return None
     
@@ -64,10 +71,10 @@ def load_cleaned_data():
     missing_files = []
     
     for file in files:
-        filepath = f"{CLEANED_DATA_PATH}{file}"
+        filepath = cleaned_data_path / file
         table_name = file.replace('cleaned_', '').replace('.csv', '')
         
-        if os.path.exists(filepath):
+        if filepath.exists():
             df = pd.read_csv(filepath)
             dfs[table_name] = df
             print(f"✓ {table_name:15} : {len(df):,} rows loaded")
@@ -425,7 +432,7 @@ def main():
     print("="*80)
     
     print("\n✓ Process Complete:")
-    print(f"  ✓ Cleaned data loaded from: {CLEANED_DATA_PATH}")
+    print(f"  ✓ Cleaned data loaded from: {get_processed_data_dir()}")
     print(f"  ✓ Database schema created")
     print(f"  ✓ Data loaded to: {SQL_SERVER}/{SQL_DATABASE}")
     print(f"  ✓ Data verification: {'Passed' if verified else 'Skipped'}")

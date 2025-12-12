@@ -9,6 +9,12 @@ import numpy as np
 import yaml
 import os
 import warnings
+import sys
+
+# Ensure src module can be imported
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
+
+from src.utils.config_loader import get_raw_data_dir, get_processed_data_dir, load_config
 
 warnings.filterwarnings("ignore")
 
@@ -16,47 +22,9 @@ warnings.filterwarnings("ignore")
 # CONFIGURATION
 # ============================================================================
 
-DATA_SOURCE_PATH = "DataSources/"
-OUTPUT_PATH = "cleaned_data/"
-CONFIG_FILE = "pipeline_config.yaml"
-
 print("=" * 80)
 print("DATA TRANSFORMATION PIPELINE")
 print("=" * 80)
-
-
-# ============================================================================
-# LOAD CONFIGURATION
-# ============================================================================
-
-
-def load_config():
-    """Load pipeline configuration"""
-    print("\n" + "=" * 80)
-    print("LOADING CONFIGURATION")
-    print("=" * 80)
-
-    if not os.path.exists(CONFIG_FILE):
-        print(f"\n⚠️  Configuration file '{CONFIG_FILE}' not found!")
-        print("   Proceeding with full transformation...\n")
-        return None
-
-    with open(CONFIG_FILE, "r") as f:
-        config = yaml.safe_load(f)
-
-    print(f"\n✓ Configuration loaded")
-    print(f"  Quality score: {config['overall_quality_score']:.2f}%")
-    print(f"  Check time: {config['metadata']['check_timestamp']}")
-
-    print("\nTransformation Steps:")
-    for step, needed in config["pipeline_steps"].items():
-        if step != "data_cleaning" and step != "data_transformation":
-            continue
-        status = "✓ EXECUTE" if needed else "⊗ SKIP"
-        print(f"  {step:30} : {status}")
-
-    return config
-
 
 # ============================================================================
 # DATA LOADING
@@ -80,21 +48,23 @@ def load_data():
         "stores": "stores.csv",
         "stocks": "stocks.csv",
     }
-
+    
+    data_path = get_raw_data_dir()
     dfs = {}
     for name, file in files.items():
+        file_path = data_path / file
         try:
-            df = pd.read_csv(f"{DATA_SOURCE_PATH}{file}", encoding="utf-8")
+            df = pd.read_csv(file_path, encoding="utf-8")
             dfs[name] = df
             print(f"✓ {name:15} : {df.shape[0]:6} rows × {df.shape[1]:3} columns")
         except UnicodeDecodeError:
-            df = pd.read_csv(f"{DATA_SOURCE_PATH}{file}", encoding="latin-1")
+            df = pd.read_csv(file_path, encoding="latin-1")
             dfs[name] = df
             print(
                 f"✓ {name:15} : {df.shape[0]:6} rows × {df.shape[1]:3} columns (latin-1)"
             )
         except FileNotFoundError:
-            print(f"✗ {name:15} : FILE NOT FOUND")
+            print(f"✗ {name:15} : FILE NOT FOUND at {file_path}")
 
     print(f"\n📊 Total datasets loaded: {len(dfs)}")
     return dfs
@@ -587,18 +557,19 @@ def save_cleaned_data(dfs):
     print("\n" + "=" * 80)
     print("SAVING CLEANED DATA")
     print("=" * 80)
-
-    if not os.path.exists(OUTPUT_PATH):
-        os.makedirs(OUTPUT_PATH)
-        print(f"✓ Created output directory: {OUTPUT_PATH}")
+    
+    output_path = get_processed_data_dir()
+    if not output_path.exists():
+        os.makedirs(output_path)
+        print(f"✓ Created output directory: {output_path}")
 
     print("\nSaving files:")
     for name, df in dfs.items():
-        filename = f"{OUTPUT_PATH}cleaned_{name}.csv"
+        filename = output_path / f"cleaned_{name}.csv"
         df.to_csv(filename, index=False)
         print(f"  ✓ cleaned_{name}.csv ({len(df):,} rows)")
 
-    print(f"\n✓ All files saved to '{OUTPUT_PATH}'")
+    print(f"\n✓ All files saved to '{output_path}'")
     return True
 
 
@@ -614,6 +585,12 @@ def main():
 
     # Load configuration
     config = load_config()
+    
+    if config:
+        print(f"\n✓ Configuration loaded")
+        print(f"  Quality score: {config['overall_quality_score']:.2f}%")
+    else:
+        print("\n⚠️  Configuration not found or failed to load. Proceeding with defaults.")
 
     # Load source data
     dfs = load_data()
@@ -647,7 +624,7 @@ def main():
     print("\n" + "=" * 80)
     print("✓ TRANSFORMATION COMPLETE!")
     print("=" * 80)
-    print(f"\nCleaned data saved to: {OUTPUT_PATH}")
+    print(f"\nCleaned data saved to: {get_processed_data_dir()}")
     print("Ready for SQL Server loading")
     print("=" * 80)
 

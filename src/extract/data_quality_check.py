@@ -9,14 +9,15 @@ import numpy as np
 import yaml
 from datetime import datetime
 import warnings
+import sys
+import os
+
+# Ensure src module can be imported
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
+
+from src.utils.config_loader import get_raw_data_dir, get_config_path
 
 warnings.filterwarnings("ignore")
-
-# ============================================================================
-# CONFIGURATION
-# ============================================================================
-
-DATA_SOURCE_PATH = "DataSources/"
 
 # ============================================================================
 # CHECK FUNCTIONS
@@ -237,19 +238,21 @@ def analyze_data_quality():
         "stores": "stores.csv",
         "stocks": "stocks.csv",
     }
-
+    
+    data_path = get_raw_data_dir()
     dfs = {}
     for name, file in files.items():
+        file_path = data_path / file
         try:
-            df = pd.read_csv(f"{DATA_SOURCE_PATH}{file}", encoding="utf-8")
+            df = pd.read_csv(file_path, encoding="utf-8")
             dfs[name] = df
             print(f"  ✓ {name}")
         except UnicodeDecodeError:
-            df = pd.read_csv(f"{DATA_SOURCE_PATH}{file}", encoding="latin-1")
+            df = pd.read_csv(file_path, encoding="latin-1")
             dfs[name] = df
             print(f"  ✓ {name} (latin-1)")
         except FileNotFoundError:
-            print(f"  ✗ {name} - FILE NOT FOUND")
+            print(f"  ✗ {name} - FILE NOT FOUND at {file_path}")
 
     # Analyze each dataset
     print("\nAnalyzing data quality...")
@@ -379,7 +382,7 @@ def print_summary(config):
         status = "✓ NEEDED" if trans_config["needed"] else "✗ SKIP"
         print(f"  {trans_name:25} : {status}")
 
-def save_config_yaml(config, filename="pipeline_config.yaml"):
+def save_config_yaml(config):
     # Convert all numpy/pandas types to native Python types
     def convert(o):
         if isinstance(o, (np.bool_, np.bool)):
@@ -397,11 +400,12 @@ def save_config_yaml(config, filename="pipeline_config.yaml"):
         return o
 
     clean_config = convert(config)
-
-    with open(filename, "w") as f:
+    
+    config_path = get_config_path()
+    with open(config_path, "w") as f:
         yaml.dump(clean_config, f, sort_keys=False, default_flow_style=False)
 
-    print(f"✓ Configuration saved to {filename}")
+    print(f"✓ Configuration saved to {config_path}")
 
 
 
@@ -427,7 +431,7 @@ def main():
     print("=" * 80)
     print("\nNext steps:")
     print("1. Review pipeline_config.yaml")
-    print("2. Run main.py with this configuration")
+    print("2. Run pipeline")
     print("=" * 80)
 
     return config
